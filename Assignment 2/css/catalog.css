@@ -1,0 +1,29 @@
+.display {
+    display: grid;
+    gap: 50px 50px;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+img {
+    width: 80%;
+    height: 70%;
+}
+
+main {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+main h4 {
+    width: 75%;
+    margin: auto;
+}
+
+.game h4 {
+    padding-top: 10px;
+}
+
+header {
+    text-align: center;
+}
