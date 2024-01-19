@@ -2,32 +2,44 @@ body {
     background-color: whitesmoke;
 }
 
-.display {
-    display: grid;
-    gap: 50px 50px;
-    grid-template-columns: repeat(3, 1fr);
-}
-
-img {
-    width: 80%;
-    height: 70%;
+.desc {
+    list-style-type: none;
+    padding-left: 20px;
 }
 
 main {
-    text-align: center;
     width: 50%;
-    margin: auto;
+    margin-right: auto;
 }
 
-main h4 {
-    width: 75%;
-    margin: auto;
+.left {
+    float: left;
+    text-align: center;
 }
 
-.game h4 {
-    padding-top: 10px;
+.right {
+    float: right;
 }
 
-header {
+.clearfix {
+    clear: both;
+}
+
+main .left {
+    width: 30%;
+}
+
+main .right {
+    width: 70%;
+    text-align: left;
+    padding-top: 35px;
+}
+
+.left img {
+    width: 50%;
+    height: 80%;
+}
+
+footer {
     text-align: center;
 }
