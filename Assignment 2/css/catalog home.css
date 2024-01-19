@@ -1,8 +1,45 @@
+body {
+    background-color: whitesmoke;
+}
+
 .desc {
     list-style-type: none;
     padding-left: 20px;
 }
 
 main {
-    width: 40%;
+    width: 50%;
+    margin: auto;
+}
+
+.left {
+    float: left;
+    text-align: center;
+}
+
+.right {
+    float: right;
+}
+
+.clearfix {
+    clear: both;
+}
+
+main .left {
+    width: 30%;
+}
+
+main .right {
+    width: 70%;
+    text-align: left;
+    padding-top: 35px;
+}
+
+.left img {
+    width: 50%;
+    height: 80%;
+}
+
+footer {
+    text-align: center;
 }

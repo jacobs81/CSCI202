@@ -1,3 +1,7 @@
+body {
+    background-color: whitesmoke;
+}
+
 .display {
     display: grid;
     gap: 50px 50px;
