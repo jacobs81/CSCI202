@@ -1,0 +1,25 @@
+.comments p:nth-child(even) {
+    background: lavender;
+}
+
+.comments p:nth-child(odd) {
+    background: gainsboro;
+}
+
+.comments p {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.comments {
+    margin-right: 50%;
+}
+
+.comments p:hover{
+    background-color: blue;
+    cursor: pointer;
+}
+
+.comment-input button:hover {
+    cursor: pointer;
+}
