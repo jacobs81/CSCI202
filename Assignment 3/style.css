@@ -1,4 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
 body {
+    font-family: 'Open Sans', sans-serif;
     background-color: #0077C0;
     width: 100%;
 }
@@ -74,4 +77,8 @@ button {
 
 button:hover {
     cursor: pointer;
+}
+
+p {
+    font-size: 15px;
 }
