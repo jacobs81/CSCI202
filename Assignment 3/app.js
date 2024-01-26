@@ -23,10 +23,6 @@ document.addEventListener('DOMContentLoaded', function () {
         displayBy("playtime");
     });
 
-    type.addEventListener("click", function() {
-        displayBy("release_type");
-    });
-
     date.addEventListener("click", function() {
         displayBy("release_date");
     });
@@ -40,6 +36,7 @@ document.addEventListener('DOMContentLoaded', function () {
             const genre = obj.genre;
             const playtime = obj.playtime;
             const personalConnection = obj.personal_connection;
+            const release_date = obj.release_date;
             const imageName = obj.image_name;
 
             htmlInfo += `
@@ -61,6 +58,9 @@ document.addEventListener('DOMContentLoaded', function () {
                     <br><br>
                     <strong>Personal Connection:</strong> ${personalConnection}
 
+                    <br><br>
+                    <strong>Release Year:</strong> ${release_date}
+
                 </p>
             </div>
             <div class="clearfix"></div>
@@ -75,7 +75,11 @@ document.addEventListener('DOMContentLoaded', function () {
         fetch("games.json")
             .then(response => response.json())
             .then(data => {
-                data.sort((a,b) => a[property].localeCompare(b[property]));
+                if (property === "playtime" || property === "release_date") {
+                    data.sort((a,b) => b[property] - a[property]);
+                } else {
+                    data.sort((a,b) => a[property].localeCompare(b[property]));
+                }
                 displayInformation(data);
             })
             .catch(error => console.error("Error reading json, ", error));
