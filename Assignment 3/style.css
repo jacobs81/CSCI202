@@ -4,12 +4,14 @@ body {
     font-family: 'Open Sans', sans-serif;
     background-color: #0077C0;
     width: 100%;
+    margin: 0;
 }
 
 main {
     width: 50%;
     margin: auto;
     background-color: #C7EEFF;
+    padding: 0;
 }
 
 .left {
