@@ -1,0 +1,28 @@
+html {
+    text-align: center;
+}
+
+main {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.clearfix {
+    clear: both;
+}
+
+footer {
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+}
