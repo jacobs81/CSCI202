@@ -1,3 +1,7 @@
+body {
+    background-color:bisque;
+}
+
 .container-xl {
     border-width: 10px black;
 }
@@ -15,4 +19,8 @@
 
 img {
     width: 50%;
+}
+
+h1 {
+    text-align: center;
 }
