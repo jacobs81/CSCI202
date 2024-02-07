@@ -67,8 +67,26 @@ h1 {
     overflow: hidden;
 }
 
-iframe {
-    height: 80%;
+#panelAW img {
+    height: 700px;
+    width: auto;
     overflow: hidden;
     border: none;
+    max-width: 100%;
+}
+
+#panelCF img {
+    height: 700px;
+    width: auto;
+    overflow: hidden;
+    border: none;
+    max-width: 100%;
+}
+
+#panelPH img {
+    height: 700px;
+    width: auto;
+    overflow: hidden;
+    border: none;
+    max-width: 100%;
 }
