@@ -183,13 +183,13 @@ function updateImage1() {
 }
 
 prevButton1.addEventListener("click", function () {
-    currentIndex1 = (currentIndex1 - 1 + totalImages1) % totalImages1;
+    currentIndex1 = (currentIndex1 + 1 + totalImages1) % totalImages1;
     updateImage1();
 });
 
 
 nextButton1.addEventListener("click", function () {
-    currentIndex1 = (currentIndex1 + 1) % totalImages1;
+    currentIndex1 = (currentIndex1 - 1) % totalImages1;
     updateImage1();
 });
 
@@ -218,13 +218,13 @@ nextButton1.addEventListener("click", function () {
 
   // Event listener for previous button
   prevButton2.addEventListener("click", function() {
-    currentIndex2 = (currentIndex2 - 1 + totalImages2) % totalImages2;
+    currentIndex2 = (currentIndex2 + 1 + totalImages2) % totalImages2;
     updateImage2();
   });
 
   // Event listener for next button
   nextButton2.addEventListener("click", function() {
-    currentIndex2 = (currentIndex2 + 1) % totalImages2;
+    currentIndex2 = (currentIndex2 - 1) % totalImages2;
     updateImage2();
   });
 
@@ -249,13 +249,13 @@ nextButton1.addEventListener("click", function () {
 
   // Event listener for previous button
   prevButton3.addEventListener("click", function() {
-    currentIndex3 = (currentIndex3 - 1 + totalImages3) % totalImages3;
+    currentIndex3 = (currentIndex3 + 1 + totalImages3) % totalImages3;
     updateImage3();
   });
 
   // Event listener for next button
   nextButton3.addEventListener("click", function() {
-    currentIndex3 = (currentIndex3 + 1) % totalImages3;
+    currentIndex3 = (currentIndex3 - 1) % totalImages3;
     updateImage3();
   });
 
