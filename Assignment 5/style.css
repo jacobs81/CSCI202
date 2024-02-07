@@ -3,6 +3,16 @@
 }
 
 .col {
-    background-color: yellow;
-    border: solid 10px black;
+    /* background-color: yellow; */
+    border: solid 2px black;
+    border-radius: 10px;
+    margin: 30px 0px;
+}
+
+.btn {
+    margin: 5px;
+}
+
+img {
+    width: 50%;
 }
