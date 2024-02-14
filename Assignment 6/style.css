@@ -18,3 +18,12 @@ div {
 .clearfix {
     float: none;
 }
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 40%;
+    margin: 15px;
+}

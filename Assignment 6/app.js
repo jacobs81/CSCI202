@@ -1,15 +1,15 @@
 // Information about each astronaut in space
 $.getJSON('http://api.open-notify.org/astros.json', function (data) {
-    console.log(data);
-    console.log(data["people"]);
-
-    for (let x = 0; x < data["people"].length; x++) {
+    for (let x = 0; x < data["number"]; x++) {
         var name = data["people"][x]["name"];
         var abroad = data["people"][x]["craft"];
         console.log("Name: " + name + " and Abroad: " + abroad);
         console.log(x);
         var temp = document.getElementById(x);
-        temp.innerHTML = name + "<br>" + abroad
+        temp.innerHTML = "<img>" + "<br>" + name + "<br>" + abroad;
+
+        var image = temp.querySelector("img");
+        image.src = "https://searchengineland.com/wp-content/seloads/2014/08/four-pandas-ss-1920.jpg";
     }
 });
 
