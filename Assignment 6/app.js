@@ -13,7 +13,6 @@ $.getJSON('http://api.open-notify.org/astros.json', function (data) {
     }
 });
 
-
 // Information about where the ISS exactly is
 $.getJSON('http://api.open-notify.org/iss-now.json', function (data) {
     console.log(data);
