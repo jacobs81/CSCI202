@@ -1,15 +1,22 @@
+html {
+    color: lightgray;
+}
+
+header {
+    position: absolute;
+    width: 50%;
+}
+
 body {
     text-align: center;
+    position: relative; /* Ensure body acts as the positioning context */
+    margin: 0;
 }
 
 div {
-    border: solid 5px black;
-    border-radius: 10px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 85%;
+    margin: 0;
+    width: 15%;
+    position: absolute; /* Position the div absolutely */
 }
 
 .left {
@@ -32,14 +39,11 @@ img {
     width: 25%;
 }
 span {
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+    /* width: 50%; */
+    margin: 0;
 }
 
 main {
-    background-color: blue;
     width: 80%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0;
 }
