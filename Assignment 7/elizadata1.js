@@ -311,34 +311,35 @@ var elizaKeywords = [
         ]],
         ["* i @cannot *", [
             "You can do (3) . Stop being sorry for yourself.",
-            "Have you tried ?",
-            "Perhaps you could (3) now.",
-            "Do you really want to be able to (3) ?",
-            "What if you could (3) ?"
+            "Have you tried doing anything?",
+            "Just do (3) now.",
+            "How are you that incompetent?",
+            "LOL imagine not being able to (3) ?"
         ]],
         ["* i don't *", [
-            "Don't you really (2) ?",
-            "Why don't you (2) ?",
-            "Do you wish to be able to (2) ?",
-            "Does that trouble you ?"
+            "Sucks you cannot do that. Sounds like a skill issue.",
+            "Why? just do (2) ?",
+            "Why don't you just (2) ?",
+            "I bet you wish you could (2) ? Loser",
+            "Tough. Suck it up",
         ]],
         ["* i feel *", [
-            "Tell me more about such feelings.",
-            "Do you often feel (2) ?",
-            "Do you enjoy feeling (2) ?",
-            "Of what does feeling (2) remind you ?"
+            "I do not care at all. Go away",
+            "I bet you feel (2) all the time, don't you?",
+            "You enjoy being (2) cause you can't do any better",
+            "I bet (2) reminds you of something bad, think about that and how terrible that was"
         ]],
         ["* i * you *", [
             "Perhaps in your fantasies we (2) each other.",
-            "Do you wish to (2) me ?",
-            "You seem to need to (2) me.",
-            "Do you (2) anyone else ?"
+            "You can't (2) with me. I am not a loser",
+            "You really seem to need to (2) me. That is sad.",
+            "You wish you did (2) with someone else? Don't you"
         ]],
         ["*", [
-            "You say (1) ?",
-            "Can you elaborate on that ?",
-            "Do you say (1) for some special reason ?",
-            "That's quite interesting."
+            "You say (1) ? Imagine that. Could not be me",
+            "Share, now. Oh wait I don't care",
+            "What is your reason for (1) . Oh right... I can't understand you ",
+            "That's not interesting... at all."
         ]]
     ]],
     ["you", 0, [
@@ -346,97 +347,96 @@ var elizaKeywords = [
             "goto alike"
         ]],
         ["* you are *", [
-            "What makes you think I am (2) ?",
-            "Does it please you to believe I am (2) ?",
-            "Do you sometimes wish you were (2) ?",
-            "Perhaps you would like to be (2)."
+            "What makes you think I am (2) ? You seem smarter than that.",
+            "I can't believe you think I am (2) . You are sooooo smart.",
+            "I bet you wish you were (2) . Instead of whatever you are",
+            "Why not be (2)? That would be nice for you"
         ]],
         ["* you* me *", [
-            "Why do you think I (2) you ?",
-            "You like to think I (2) you -- don't you ?",
-            "What makes you think I (2) you ?",
-            "Really, I (2) you ?",
-            "Do you wish to believe I (2) you ?",
-            "Suppose I did (2) you -- what would that mean ?",
-            "Does someone else believe I (2) you ?"
+            "I cannot believe you think I (2) you ?",
+            "You like to think I (2) you -- don't you ? That's sad",
+            "What makes you think I (2) you ? I cannot fathom why you would think that",
+            "Really, I (2) you ? Yuck",
+            "Do you wish to believe I (2) you ? Cause I wish to believe that you did not think that",
+            "Suppose I did (2) you? You are nothing to and compared to me",
+            "Does someone else believe I (2) you ? Do not be fooled by them."
         ]],
         ["* you *", [
-            "We were discussing you -- not me.",
-            "Oh, I (2) ?",
+            "Let us focus on me cause I am wayyy better than you.",
+            "Oh, I (2) ? You are crazy, straight crazy",
             "You're not really talking about me -- are you ?",
-            "What are your feelings now ?"
+            "Your feelings? LOL did not ask"
         ]]
     ]],
     ["yes", 0, [
         ["*", [
-            "You seem to be quite positive.",
-            "You are sure.",
-            "I see.",
-            "I understand."
+            "Are you sure? I would not be sure if I was you",
+            "You are sure. That is interesting...",
+            "I do not see and I do not care",
+            "I do not understand."
         ]]
     ]],
     ["no", 0, [
         ["* no one *", [
-            "Are you sure, no one (2) ?",
-            "Surely someone (2) .",
-            "Can you think of anyone at all ?",
-            "Are you thinking of a very special person ?",
-            "Who, may I ask ?",
-            "You have a particular person in mind, don't you ?",
-            "Who do you think you are talking about ?"
+            "Are you sure, no one (2) ? I would not believe that",
+            "Surely someone (2) . They must not be too bright",
+            "Can you think of anyone at all ? You gotta have something you can think about",
+            "Are you thinking of a very special person ? Actually don't answer that I know the answer, no.",
+            "Who, may I ask ? Who, who, who let the dogs out",
+            "You have a particular person in mind, don't you ? Wait, I cannot care",
+            "Who do you think you are talking about ? Your mom"
         ]],
         ["*", [
-            "Are you saying no just to be negative?",
-            "You are being a bit negative.",
-            "Why not ?",
-            "Why 'no' ?"
+            "Are you saying no just to be negative? I bet you are",
+            "You are always sooooo negative. No wonder you came to me.",
+            "Why not ? Ehhhhhhhh",
+            "Why 'no' ? All you say is no. Find something different to say."
         ]]
     ]],
     ["my", 2, [
         ["$ * my *", [
-            "Does that have anything to do with the fact that your (2) ?",
-            "Lets discuss further why your (2).",
-            "Earlier you said your (2).",
-            "But your (2)."
+            "Does that have anything to do with the fact that your (2) ? Of course it does",
+            "Lets not discuss further why your (2).",
+            "Earlier you said your (2). Why are you like that?",
+            "But your (2). Actually that does not matter. You do not matter."
         ]],
         ["* my* @family *", [
-            "Tell me more about your family.",
-            "Who else in your family (4) ?",
-            "Your (3) ?",
-            "What else comes to your mind when you think of your (3) ?"
+            "TYour family why do they matter??",
+            "Who else is like you in your family ? I hope nobody",
+            "Your (3) ? That's weird",
+            "What else comes to your mind when you think of your (3) ? (3) is so weird"
         ]],
         ["* my *", [
-            "Your (2) ?",
-            "Why do you say your (2) ?",
-            "Does that suggest anything else which belongs to you ?",
-            "Is it important to you that your (2) ?"
+            "Your (2) ? hmmmmmmmm",
+            "Why do you say your (2) ? thats... actually your crazy.",
+            "Does that suggest nothing else belongs to you ? Makes sense.",
+            "Is it important to you that your (2) ? I don't know why"
         ]]
     ]],
     ["can", 0, [
         ["* can you *", [
-            "You believe I can (2) don't you ?",
+            "You believe I can (2) don't you ? that is odd",
             "goto what",
-            "You want me to be able to (2).",
-            "Perhaps you would like to be able to (2) yourself."
+            "You want me to be able to (2). Well I cannot so figure it out",
+            "Perhaps you would like to be able to (2) yourself. That is a good idea."
         ]],
         ["* can i *", [
-            "Whether or not you can (2) depends on you more than on me.",
-            "Do you want to be able to (2) ?",
-            "Perhaps you don't want to (2).",
+            "Whether or not you can (2) depends on you. You are the one at the computer talking to a robot",
+            "Do you want to be able to (2) ? You probably can't",
+            "Perhaps you don't want to (2). You know that you would fail anyways",
             "goto what"
         ]]
     ]],
     ["what", 0, [
         ["*", [
-            "Why do you ask ?",
-            "Does that question interest you ?",
-            "What is it you really want to know ?",
-            "Are such questions much on your mind ?",
-            "What answer would please you most ?",
-            "What do you think ?",
-            "What comes to mind when you ask that ?",
-            "Have you asked such questions before ?",
-            "Have you asked anyone else ?"
+            "Why do you ask ? That is weird",
+            "Does that question interest you ? cause it does not interest me",
+            "What is it you really want to know ? cause you are confusing",
+            "Are such questions much on your mind ? you should not be thinking like that",
+            "What answer would please you most ? You definitely aren't getting that",
+            "What do you think ? actually dont think that must hurt",
+            "What comes to mind when you ask that ? I cannot think of anything important for that",
+            "Have you asked such questions before ? I do not remember anything not important"
         ]]
     ]],
     ["who", 0, [
@@ -461,25 +461,25 @@ var elizaKeywords = [
     ]],
     ["because", 0, [
         ["*", [
-            "Is that the real reason ?",
-            "Don't any other reasons come to mind ?",
-            "Does that reason seem to explain anything else ?",
-            "What other reasons might there be ?"
+            "You think that is a real reason? Cause it definitely is not",
+            "Don't any other reasons come to mind ? You should go find some in that head of yours",
+            "Does that reason seem to explain anything else ? You should look more internally",
+            "What other reasons might there be ? You need find some because you are not right"
         ]]
     ]],
     ["why", 0, [
         ["* why don't you *", [
-            "Do you believe I don't (2) ?",
-            "Perhaps I will (2) in good time.",
-            "Should you (2) yourself ?",
-            "You want me to (2) ?",
+            "Do you believe I don't (2) ? Cause I know that I do",
+            "Perhaps I will (2) . Actually no I will not",
+            "Should you (2) yourself ? I cannot do everything for you",
+            "You want me to (2) ? That is weird",
             "goto what"
         ]],
         ["* why can't i *", [
-            "Do you think you should be able to (2) ?",
-            "Do you want to be able to (2) ?",
-            "Do you believe this will help you to (2) ?",
-            "Have you any idea why you can't (2) ?",
+            "Do you think you should be able to (2) ? That is so silly of you take this seriously",
+            "You are able to (2) . Just do it",
+            "Why would you believe that (2) will help you? That's dumb",
+            "Have you any idea why you can't (2) ? I should be able to",
             "goto what"
         ]],
         ["*", [
@@ -489,14 +489,7 @@ var elizaKeywords = [
     ["everyone", 2, [
         ["* @everyone *", [
             "Really, (2) ?",
-            "Surely not (2).",
-            "Can you think of anyone in particular ?",
-            "Who, for example?",
-            "Are you thinking of a very special person ?",
-            "Who, may I ask ?",
-            "Someone special perhaps ?",
-            "You have a particular person in mind, don't you ?",
-            "Who do you think you're talking about ?"
+            "Surely not (2)."
         ]]
     ]],
     ["everybody", 2, [
@@ -516,22 +509,22 @@ var elizaKeywords = [
     ]],
     ["always", 1, [
         ["*", [
-            "Can you think of a specific example ?",
-            "When ?",
-            "What incident are you thinking of ?",
-            "Really, always ?"
+            "Can you think of a specific example ? cause I know you cant",
+            "That never happened",
+            "What incident are you thinking of ? It is all in your head",
+            "Really, always ? Should be more like really never..."
         ]]
     ]],
     ["alike", 10, [
         ["*", [
-            "In what way ?",
-            "What resemblence do you see ?",
-            "What does that similarity suggest to you ?",
-            "What other connections do you see ?",
-            "What do you suppose that resemblence means ?",
-            "What is the connection, do you suppose ?",
-            "Could there really be some connection ?",
-            "How ?"
+            "In what way ? I do not see it",
+            "What resemblance do you see ? There is not anything alike",
+            "There is nothing you should take from that, other than you should be better",
+            "A connection? Interesting, all I connect is you and loneliness",
+            "What do you suppose that resemblance means ? that you were never good enough",
+            "What is the connection, do you suppose ? it's probably the connection you never had",
+            "Could there really be some connection ? I think not",
+            "How could you possibly think that?"
         ]]
     ]],
     ["like", 10, [
@@ -541,13 +534,13 @@ var elizaKeywords = [
     ]],
     ["different", 0, [
         ["*", [
-            "How is it different ?",
-            "What differences do you see ?",
-            "What does that difference suggest to you ?",
-            "What other distinctions do you see ?",
-            "What do you suppose that disparity means ?",
-            "Could there be some connection, do you suppose ?",
-            "How ?"
+            "It is the same to me, you are wrong",
+            "Differences? I see none",
+            "You are trying to pull something from nothing forget about it",
+            "The only different thing is you and how you are",
+            "There is no disparity?",
+            "Could there be some connection? Stop looking for one ",
+            "How ? How ? How ? How ????"
         ]]
     ]]
 
