@@ -1,0 +1,6464 @@
+[
+    [
+        "Shooting Cans",
+        "\/wiki\/Shooting_Cans",
+        "Completion",
+        [
+            "Locate the Utyos machine gun on Ground Zero",
+            "Locate the AGS grenade launcher on Ground Zero",
+            "Eliminate any 5 targets on Ground Zero"
+        ],
+        "No",
+        [
+            "Debut"
+        ],
+        null,
+        "Prapor",
+        []
+    ],
+    [
+        "Debut",
+        "\/wiki\/Debut",
+        "Elimination",
+        [
+            "Eliminate 5 Scavs all over the Tarkov territory",
+            "Obtain and hand over 2 MP-133 12ga shotguns"
+        ],
+        "Yes",
+        [
+            "Search Mission",
+            "Luxurious Life"
+        ],
+        null,
+        "Prapor",
+        [
+            0
+        ]
+    ],
+    [
+        "Luxurious Life",
+        "\/wiki\/Luxurious_Life",
+        "PickUp",
+        [
+            "Locate the liquor store on Ground Zero",
+            "Locate and obtain the wine bottle in the store",
+            "Hand over the wine bottle"
+        ],
+        "No",
+        [
+            "Background Check"
+        ],
+        null,
+        "Prapor",
+        [
+            1
+        ]
+    ],
+    [
+        "Properties All Around",
+        "\/wiki\/Properties_All_Around",
+        "PickUp",
+        [
+            "Locate the real estate fund on Streets of Tarkov",
+            "Locate and obtain the Tarkov real estate transactions document",
+            "Hand over the obtained information"
+        ],
+        "No",
+        [],
+        null,
+        "Prapor",
+        [
+            43
+        ]
+    ],
+    [
+        "Search Mission",
+        "\/wiki\/Search_Mission",
+        "Exploration",
+        [
+            "Find Prapor's missing convoy on Woods",
+            "Locate the temporary USEC camp",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [],
+        "5",
+        "Prapor",
+        [
+            1
+        ]
+    ],
+    [
+        "Background Check",
+        "\/wiki\/Background_Check",
+        "PickUp",
+        [
+            "Obtain the Bronze pocket watch on Customs(Optional) Obtain the key to the fuel tanker truck",
+            "(Optional) Obtain the key to the fuel tanker truck",
+            "Hand over the Bronze pocket watch to Prapor"
+        ],
+        "Yes",
+        [
+            "Shootout Picnic",
+            "Delivery From the Past"
+        ],
+        "2",
+        "Prapor",
+        [
+            2
+        ]
+    ],
+    [
+        "Shootout Picnic",
+        "\/wiki\/Shootout_Picnic",
+        "Elimination",
+        [
+            "Eliminate 15 Scavs on Woods"
+        ],
+        "Yes",
+        [],
+        "3",
+        "Prapor",
+        [
+            5
+        ]
+    ],
+    [
+        "Delivery From the Past",
+        "\/wiki\/Delivery_From_the_Past",
+        "PickUp",
+        [
+            "Obtain the secure folder in the Tarcone Director's office at the Customs terminal warehouse",
+            "Stash the package in the Factory break room (2nd floor near Gate 3)",
+            "Survive and extract from Factory"
+        ],
+        "Yes",
+        [
+            "BP Depot"
+        ],
+        "5",
+        "Prapor",
+        [
+            5
+        ]
+    ],
+    [
+        "BP Depot",
+        "\/wiki\/BP_Depot",
+        "Discovery",
+        [
+            "Mark the first fuel tank with an MS2000 Marker on Customs",
+            "Mark the second fuel tank with an MS2000 Marker on Customs",
+            "Mark the third fuel tank with an MS2000 Marker on Customs",
+            "Mark the fourth fuel tank with an MS2000 Marker on Customs",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Bad Rep Evidence",
+            "The Bunker - Part 1"
+        ],
+        "5",
+        "Prapor",
+        [
+            7
+        ]
+    ],
+    [
+        "The Bunker - Part 1",
+        "\/wiki\/The_Bunker_-_Part_1",
+        "Completion",
+        [
+            "Find the underground bunker",
+            "Locate the control room in the underground bunker",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "The Bunker - Part 2"
+        ],
+        "10",
+        "Prapor",
+        [
+            8
+        ]
+    ],
+    [
+        "The Bunker - Part 2",
+        "\/wiki\/The_Bunker_-_Part_2",
+        "Completion",
+        [
+            "Locate the hermetic door leading to the hospital (white bishop)",
+            "Locate one of two hermetic doors leading to the academy building (black bishop)",
+            "Locate one of two hermetic doors leading to barracks #1 (black pawn)",
+            "Locate one of two hermetic doors leading to barracks #2 (white pawn)",
+            "Locate the hermetic door leading to the building of the air control center (white king)",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "No Place for Renegades"
+        ],
+        "15",
+        "Prapor",
+        [
+            9
+        ]
+    ],
+    [
+        "Bad Rep Evidence",
+        "\/wiki\/Bad_Rep_Evidence",
+        "PickUp",
+        [
+            "Obtain Secure Folder 0031 in a bunkhouse on Customs(Optional) Gain access to the locked room on the third floor in the Factory office hallway(Optional) Obtain the Portable bunkhouse key",
+            "(Optional) Gain access to the locked room on the third floor in the Factory office hallway",
+            "(Optional) Obtain the Portable bunkhouse key",
+            "Hand over the Secure Folder 0031 to Prapor",
+            "Survive and extract from Customs"
+        ],
+        "Yes",
+        [
+            "Ice Cream Cones"
+        ],
+        "6",
+        "Prapor",
+        [
+            8
+        ]
+    ],
+    [
+        "Ice Cream Cones",
+        "\/wiki\/Ice_Cream_Cones",
+        "PickUp",
+        [
+            "Find 3 AK-74 5.45x39 6L31 60-round magazine in raid(Optional) Find the key to the bunker in the TerraGroup employee's dorm room(Optional) Locate the correct bunker in Woods",
+            "(Optional) Find the key to the bunker in the TerraGroup employee's dorm room",
+            "(Optional) Locate the correct bunker in Woods",
+            "Hand over 3 AK-74 5.45x39 6L31 60-round magazine to Prapor"
+        ],
+        "Yes",
+        [
+            "Postman Pat - Part 1",
+            "Shaking up the Teller"
+        ],
+        "9",
+        "Prapor",
+        [
+            11
+        ]
+    ],
+    [
+        "No Place for Renegades",
+        "\/wiki\/No_Place_for_Renegades",
+        "Elimination",
+        [
+            "Eliminate 5 Raiders in the command bunker on Reserve"
+        ],
+        "Yes",
+        [
+            "Documents"
+        ],
+        "12",
+        "Prapor",
+        [
+            10
+        ]
+    ],
+    [
+        "Documents",
+        "\/wiki\/Documents",
+        "PickUp",
+        [
+            "Obtain Military documents \u21161 on Reserve",
+            "Obtain Military documents \u21162 on Reserve",
+            "Obtain Military documents \u21163 on Reserve",
+            "Hand over the first documents to Prapor",
+            "Hand over the second documents to Prapor",
+            "Hand over the third documents to Prapor"
+        ],
+        "Yes",
+        [],
+        "10",
+        "Prapor",
+        [
+            13
+        ]
+    ],
+    [
+        "Postman Pat - Part 1",
+        "\/wiki\/Postman_Pat_-_Part_1",
+        "PickUp",
+        [
+            "Obtain the letter on the messenger's body on Factory",
+            "Survive and extract from Factory",
+            "Hand over the letter to Therapist"
+        ],
+        "Yes",
+        [
+            "Postman Pat - Part 2",
+            "You've Got Mail"
+        ],
+        "10",
+        "Prapor",
+        [
+            12
+        ]
+    ],
+    [
+        "Shaking up the Teller",
+        "\/wiki\/Shaking_up_the_Teller",
+        "PickUp",
+        [
+            "Obtain the valuable item in dorm room 203 on Customs(Optional) Gain access to dorm room 214",
+            "(Optional) Gain access to dorm room 214",
+            "Hand over the valuable item to Prapor"
+        ],
+        "Yes",
+        [
+            "The Punisher - Part 1",
+            "Perfect Mediator",
+            "Anesthesia"
+        ],
+        "2",
+        "Prapor",
+        [
+            12
+        ]
+    ],
+    [
+        "The Punisher - Part 1",
+        "\/wiki\/The_Punisher_-_Part_1",
+        "Elimination",
+        [
+            "Eliminate 15 Scavs while using an AKM series weapon on Shoreline"
+        ],
+        "Yes",
+        [
+            "The Punisher - Part 2"
+        ],
+        "17",
+        "Prapor",
+        [
+            16
+        ]
+    ],
+    [
+        "The Punisher - Part 2",
+        "\/wiki\/The_Punisher_-_Part_2",
+        "Elimination",
+        [
+            "Eliminate 12 Scavs while using a suppressed weapon  on Reserve",
+            "Find 7 Lower half-masks in raid",
+            "Hand over the 7 half-masks"
+        ],
+        "Yes",
+        [
+            "The Punisher - Part 3",
+            "Easy Job - Part 1"
+        ],
+        "18",
+        "Prapor",
+        [
+            17
+        ]
+    ],
+    [
+        "The Punisher - Part 3",
+        "\/wiki\/The_Punisher_-_Part_3",
+        "Elimination",
+        [
+            "Eliminate 25 Scavs while using an AKS-74U series assault rifle on Customs"
+        ],
+        "Yes",
+        [
+            "The Punisher - Part 4"
+        ],
+        "19",
+        "Prapor",
+        [
+            18
+        ]
+    ],
+    [
+        "The Punisher - Part 4",
+        "\/wiki\/The_Punisher_-_Part_4",
+        "Elimination",
+        [
+            "Eliminate 10 Scavs while using a 12ga shotgun on Lighthouse",
+            "Eliminate 10 PMC operatives while wearing a balaclava (any type) and Scav Vest on Lighthouse",
+            "Find 5 Bars A-2607 95Kh18 knives  in raid",
+            "Hand over the 5 Bars A-2607 95Kh18 knives"
+        ],
+        "Yes",
+        [
+            "The Punisher - Part 5",
+            "Kings of the Rooftops"
+        ],
+        "20",
+        "Prapor",
+        [
+            19
+        ]
+    ],
+    [
+        "The Punisher - Part 5",
+        "\/wiki\/The_Punisher_-_Part_5",
+        "PickUp",
+        [
+            "Find 1 AK-74N assault rifle in raid",
+            "Hand over the AK-74N",
+            "Find 1 Colt M4A1 assault rifle in raid",
+            "Hand over the M4A1",
+            "Find 2 Makarov PM pistols in raid",
+            "Hand over the 2 pistols",
+            "Eliminate 10 PMC operatives while wearing a PACA body armor and 6B47 helmet"
+        ],
+        "Yes",
+        [
+            "The Punisher - Part 6",
+            "Our Own Land"
+        ],
+        "20",
+        "Prapor",
+        [
+            20
+        ]
+    ],
+    [
+        "The Punisher - Part 6",
+        "\/wiki\/The_Punisher_-_Part_6",
+        "Elimination",
+        [
+            "Eliminate 15 PMCs while using SVD rifle (excluding Factory location)",
+            "Find 7 BEAR PMC dogtags",
+            "Hand over the BEAR dogtags",
+            "Find 7 USEC PMC dogtags",
+            "Hand over the USEC dogtags"
+        ],
+        "Yes",
+        [
+            "Capturing Outposts",
+            "Intimidator",
+            "Escort",
+            "The Choice",
+            "Gendarmerie - Mall Cop"
+        ],
+        "21",
+        "Prapor",
+        [
+            21
+        ]
+    ],
+    [
+        "Anesthesia",
+        "\/wiki\/Anesthesia",
+        "Discovery",
+        [
+            "Mark the first trading post with an MS2000 Marker on Shoreline",
+            "Mark the second trading post with an MS2000 Marker on Shoreline",
+            "Mark the third trading post with an MS2000 Marker on Shoreline",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Rigged Game",
+            "Samples",
+            "Chemistry Closet"
+        ],
+        "21",
+        "Prapor",
+        [
+            16
+        ]
+    ],
+    [
+        "Grenadier",
+        "\/wiki\/Grenadier",
+        "Elimination",
+        [
+            "Eliminate 8 PMCs with grenades"
+        ],
+        "Yes",
+        [
+            "Test Drive - Part 1"
+        ],
+        "20",
+        "Prapor",
+        []
+    ],
+    [
+        "Test Drive - Part 1",
+        "\/wiki\/Test_Drive_-_Part_1",
+        "Elimination",
+        [
+            "Eliminate 5 PMC operatives from over 60 meters away while using an M1A rifle with Hybrid 46 suppressor and Schmidt & Bender PM II 1-8x24 scope"
+        ],
+        "Yes",
+        [
+            "Test Drive - Part 2"
+        ],
+        "30",
+        "Prapor",
+        [
+            24
+        ]
+    ],
+    [
+        "Test Drive - Part 2",
+        "\/wiki\/Test_Drive_-_Part_2",
+        "Elimination",
+        [
+            "Eliminate 20 PMC operatives while using an SR-2M \"Veresk\" with a suppressor and KP-SR2 reflex sight on Streets of Tarkov"
+        ],
+        "No",
+        [
+            "Test Drive - Part 3"
+        ],
+        "21",
+        "Prapor",
+        [
+            25
+        ]
+    ],
+    [
+        "Test Drive - Part 3",
+        "\/wiki\/Test_Drive_-_Part_3",
+        "Elimination",
+        [
+            "Eliminate 20 PMC operatives while using an AK-12 with a suppressor and Valday PS-320 1\/6x scope on Lighthouse"
+        ],
+        "No",
+        [
+            "Test Drive - Part 4"
+        ],
+        null,
+        "Prapor",
+        [
+            26
+        ]
+    ],
+    [
+        "Test Drive - Part 4",
+        "\/wiki\/Test_Drive_-_Part_4",
+        "Elimination",
+        [
+            "Eliminate 20 PMC operatives while using an RPDN with a 1P78-1 scope on Shoreline"
+        ],
+        "No",
+        [],
+        null,
+        "Prapor",
+        [
+            27
+        ]
+    ],
+    [
+        "Perfect Mediator",
+        "\/wiki\/Perfect_Mediator",
+        "Standing",
+        [
+            "Reach level 4 loyalty with Ragman",
+            "Reach level 4 loyalty with Skier",
+            "Reach level 4 loyalty with Mechanic",
+            "Reach level 4 loyalty with Peacekeeper",
+            "Reach level 4 loyalty with Prapor",
+            "Reach level 4 loyalty with Therapist"
+        ],
+        "Yes",
+        [],
+        "35",
+        "Prapor",
+        [
+            16
+        ]
+    ],
+    [
+        "Polikhim Hobo",
+        "\/wiki\/Polikhim_Hobo",
+        "Elimination",
+        [
+            "Eliminate 25 Scavs on Customs"
+        ],
+        "Yes",
+        [
+            "Regulated Materials"
+        ],
+        null,
+        "Prapor",
+        [
+            93
+        ]
+    ],
+    [
+        "Regulated Materials",
+        "\/wiki\/Regulated_Materials",
+        "PickUp",
+        [
+            "Find 1 6-STEN-140-M military battery in raid",
+            "Hand over 1 6-STEN-140-M military battery to Prapor",
+            "Find 5 OFZ 30x160mm shells in raid",
+            "Hand over 5 OFZ 30x160mm shells to Prapor"
+        ],
+        "Yes",
+        [],
+        "25",
+        "Prapor",
+        [
+            30
+        ]
+    ],
+    [
+        "Big Customer",
+        "\/wiki\/Big_Customer",
+        "Completion",
+        [
+            "Find the transport with the chemicals",
+            "Mark the chemical transport vehicle with an MS2000 Marker",
+            "Survive and extract from Customs"
+        ],
+        "No, but a subsequent quest Yes",
+        [
+            "Trust Regain",
+            "Loyalty Buyout",
+            "Safe Corridor"
+        ],
+        "4",
+        "Prapor",
+        [
+            95
+        ]
+    ],
+    [
+        "No Offence",
+        "\/wiki\/No_Offence",
+        "PickUp",
+        [
+            "Obtain 10 M67 grenades",
+            "Hand over 10 M67 grenades to Prapor"
+        ],
+        "No",
+        [],
+        null,
+        "Prapor",
+        [
+            75,
+            96
+        ]
+    ],
+    [
+        "Capturing Outposts",
+        "\/wiki\/Capturing_Outposts",
+        "Elimination",
+        [
+            "Eliminate 8 PMC operatives at the Scav base on Customs",
+            "Eliminate 8 PMC operatives at the Scav base on Woods",
+            "Eliminate 8 PMC operatives at the Health Resort on Shoreline"
+        ],
+        "No",
+        [],
+        "42",
+        "Prapor",
+        [
+            22
+        ]
+    ],
+    [
+        "Intimidator",
+        "\/wiki\/Intimidator",
+        "Elimination",
+        [
+            "Eliminate 40 Scavs with headshots"
+        ],
+        "Yes",
+        [],
+        "45",
+        "Prapor",
+        [
+            22
+        ]
+    ],
+    [
+        "Escort",
+        "\/wiki\/Escort",
+        "Elimination",
+        [
+            "You must not die or leave the raid while the task is active (Status: KIA, Left the Action, MIA, Ran Through)",
+            "Eliminate 4 PMCs on daytime Factory",
+            "Eliminate 4 PMCs on Customs",
+            "Eliminate 4 PMCs on Shoreline",
+            "Eliminate 4 PMCs on Reserve",
+            "Eliminate 4 PMCs on Woods",
+            "Eliminate 4 PMCs on Interchange",
+            "Eliminate 4 PMCs in The Lab"
+        ],
+        "No",
+        [],
+        "60",
+        "Prapor",
+        [
+            22
+        ]
+    ],
+    [
+        "Easy Job - Part 1",
+        "\/wiki\/Easy_Job_-_Part_1",
+        "Discovery",
+        [
+            "Locate the helicopter at the water treatment plant on Lighthouse",
+            "Mark the helicopter with an MS2000 Marker",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Easy Job - Part 2",
+            "Reconnaissance"
+        ],
+        null,
+        "Prapor",
+        [
+            18
+        ]
+    ],
+    [
+        "Easy Job - Part 2",
+        "\/wiki\/Easy_Job_-_Part_2",
+        "Elimination",
+        [
+            "Eliminate any 20 targets around the helicopter area at the water treatment plant on Lighthouse"
+        ],
+        "Yes",
+        [],
+        null,
+        "Prapor",
+        [
+            37
+        ]
+    ],
+    [
+        "Our Own Land",
+        "\/wiki\/Our_Own_Land",
+        "Elimination",
+        [
+            "Eliminate 20 USEC PMC operatives all over the Lighthouse territory",
+            "Hand over 20 found in raid USEC PMC dogtags"
+        ],
+        "No",
+        [],
+        "30",
+        "Prapor",
+        [
+            21
+        ]
+    ],
+    [
+        "Reconnaissance",
+        "\/wiki\/Reconnaissance",
+        "Exploration",
+        [
+            "Recon the roof of the first office building on Lighthouse",
+            "Recon the roof of the second office building on Lighthouse",
+            "Recon the roof of the third office building on Lighthouse",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [],
+        null,
+        "Prapor",
+        [
+            37
+        ]
+    ],
+    [
+        "You've Got Mail",
+        "\/wiki\/You%27ve_Got_Mail",
+        "Completion",
+        [
+            "Obtain the registered mail on Streets of Tarkov",
+            "Hand over the letter"
+        ],
+        "No",
+        [
+            "Glory to CPSU - Part 1"
+        ],
+        "10",
+        "Prapor",
+        [
+            15
+        ]
+    ],
+    [
+        "Glory to CPSU - Part 1",
+        "\/wiki\/Glory_to_CPSU_-_Part_1",
+        "Completion",
+        [
+            "Locate the apartment of Prapor's friend on Streets of Tarkov",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [
+            "Glory to CPSU - Part 2"
+        ],
+        "15",
+        "Prapor",
+        [
+            41
+        ]
+    ],
+    [
+        "Glory to CPSU - Part 2",
+        "\/wiki\/Glory_to_CPSU_-_Part_2",
+        "PickUp",
+        [
+            "Locate the place of work of Prapor's friend on Streets of Tarkov",
+            "Obtain any information on the fate of Prapor's friend",
+            "Survive and extract from the location",
+            "Hand over the found data"
+        ],
+        "No",
+        [
+            "Properties All Around"
+        ],
+        "22",
+        "Prapor",
+        [
+            42
+        ]
+    ],
+    [
+        "Best Job in the World",
+        "\/wiki\/Best_Job_in_the_World",
+        "Elimination",
+        [
+            "Eliminate any 30 hostiles from over 100 meters away while using AK-74 series weapons"
+        ],
+        "No",
+        [],
+        "25",
+        "Prapor",
+        [
+            45
+        ]
+    ],
+    [
+        "Kings of the Rooftops",
+        "\/wiki\/Kings_of_the_Rooftops",
+        "Elimination",
+        [
+            "Eliminate 10 snipers on the rooftops on Streets of Tarkov",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [
+            "Best Job in the World"
+        ],
+        "22",
+        "Prapor",
+        [
+            20
+        ]
+    ],
+    [
+        "Green Corridor",
+        "\/wiki\/Green_Corridor",
+        "Exploration",
+        [
+            "Locate the cargo convoy on Streets of Tarkov",
+            "Determine the ambush spot",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [],
+        "20",
+        "Prapor",
+        [
+            136
+        ]
+    ],
+    [
+        "Gendarmerie - Mall Cop",
+        "\/wiki\/Gendarmerie_-_Mall_Cop",
+        "Elimination",
+        [
+            "Eliminate any 15 targets at the Stylobate building while using Pistols on Streets of Tarkov"
+        ],
+        "No",
+        [
+            "Gendarmerie - Tickets, Please"
+        ],
+        null,
+        "Prapor",
+        [
+            22
+        ]
+    ],
+    [
+        "Gendarmerie - Tickets, Please",
+        "\/wiki\/Gendarmerie_-_Tickets,_Please",
+        "Elimination",
+        [
+            "Eliminate any 25 targets at the Rodina cinema while using SMGs on Streets of Tarkov"
+        ],
+        "No",
+        [
+            "Gendarmerie - District Patrol"
+        ],
+        null,
+        "Prapor",
+        [
+            47
+        ]
+    ],
+    [
+        "Gendarmerie - District Patrol",
+        "\/wiki\/Gendarmerie_-_District_Patrol",
+        "Elimination",
+        [
+            "Eliminate any 30 targets at the Cardinal apartment complex while using Assault rifles or Assault carbines on Streets of Tarkov"
+        ],
+        "No",
+        [],
+        null,
+        "Prapor",
+        [
+            48
+        ]
+    ],
+    [
+        "First in Line",
+        "\/wiki\/First_in_Line",
+        "Exploration",
+        [
+            "Locate the Emercom station on Ground Zero",
+            "Hand over any 3 medicine items"
+        ],
+        "No",
+        [
+            "Shortage"
+        ],
+        null,
+        "Therapist",
+        []
+    ],
+    [
+        "Shortage",
+        "\/wiki\/Shortage",
+        "PickUp",
+        [
+            "Find 3 Salewa first aid kits in raid",
+            "Hand over 3 Salewa first aid kits to Therapist"
+        ],
+        "Yes",
+        [
+            "Sanitary Standards - Part 1",
+            "Operation Aquarius - Part 1"
+        ],
+        null,
+        "Therapist",
+        [
+            50
+        ]
+    ],
+    [
+        "Operation Aquarius - Part 1",
+        "\/wiki\/Operation_Aquarius_-_Part_1",
+        "PickUp",
+        [
+            "Find the water hidden inside of the dorms on Customs",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Operation Aquarius - Part 2"
+        ],
+        "6",
+        "Therapist",
+        [
+            51
+        ]
+    ],
+    [
+        "Operation Aquarius - Part 2",
+        "\/wiki\/Operation_Aquarius_-_Part_2",
+        "Elimination",
+        [
+            "Eliminate 15 Scavs on Customs"
+        ],
+        "Yes",
+        [],
+        "6",
+        "Therapist",
+        [
+            52
+        ]
+    ],
+    [
+        "Sanitary Standards - Part 1",
+        "\/wiki\/Sanitary_Standards_-_Part_1",
+        "PickUp",
+        [
+            "Find 1 Gas analyzer in raid(Optional) Gain access to the locked pumping station on Factory",
+            "(Optional) Gain access to the locked pumping station on Factory",
+            "Hand over the 1 Gas analyzer to Therapist"
+        ],
+        "Yes",
+        [
+            "Sanitary Standards - Part 2"
+        ],
+        "4",
+        "Therapist",
+        [
+            51
+        ]
+    ],
+    [
+        "Sanitary Standards - Part 2",
+        "\/wiki\/Sanitary_Standards_-_Part_2",
+        "Completion",
+        [
+            "Find 2 Gas analyzers in raid",
+            "Hand over 2 Gas analyzers to Therapist"
+        ],
+        "Yes",
+        [
+            "Painkiller"
+        ],
+        "8",
+        "Therapist",
+        [
+            54
+        ]
+    ],
+    [
+        "Painkiller",
+        "\/wiki\/Painkiller",
+        "PickUp",
+        [
+            "Find 4 Morphine injectors in raid",
+            "Hand over 4 Morphine injectors to Therapist"
+        ],
+        "Yes",
+        [
+            "Pharmacist"
+        ],
+        "8",
+        "Therapist",
+        [
+            55
+        ]
+    ],
+    [
+        "Pharmacist",
+        "\/wiki\/Pharmacist",
+        "PickUp",
+        [
+            "Obtain the case containing the device on Customs(Optional) Find the paramedic's car on Customs(Optional) Get into two-story dorm room 114 on Customs",
+            "(Optional) Find the paramedic's car on Customs",
+            "(Optional) Get into two-story dorm room 114 on Customs",
+            "Hand over the case to Therapist"
+        ],
+        "Yes",
+        [
+            "General Wares",
+            "Health Care Privacy - Part 1",
+            "Car Repair",
+            "Disease History",
+            "Population Census",
+            "Supply Plans",
+            "or",
+            "Kind of Sabotage"
+        ],
+        "10",
+        "Therapist",
+        [
+            56
+        ]
+    ],
+    [
+        "Car Repair",
+        "\/wiki\/Car_Repair",
+        "PickUp",
+        [
+            "Find 4 Car batteries in raid",
+            "Find 8 Spark plugs in raid",
+            "Hand over 4 Car batteries to Therapist",
+            "Hand over 8 Spark plugs to Therapist"
+        ],
+        "Yes",
+        [],
+        null,
+        "Therapist",
+        [
+            57
+        ]
+    ],
+    [
+        "Disease History",
+        "\/wiki\/Disease_History",
+        "PickUp",
+        [
+            "Obtain Medical record #1 on Reserve",
+            "Obtain Medical record #2 on Reserve",
+            "Hand over the first journal to Therapist",
+            "Hand over the second journal to Therapist"
+        ],
+        "Yes",
+        [
+            "Seaside Vacation"
+        ],
+        "15",
+        "Therapist",
+        [
+            57
+        ]
+    ],
+    [
+        "Supply Plans",
+        "\/wiki\/Supply_Plans",
+        "PickUp",
+        [
+            "Obtain the Secure Folder 0052 in the sawmill on Woods",
+            "Hand over Secure Folder 0052 to Therapist"
+        ],
+        "No, but a subsequent quest Yes",
+        [
+            "Dangerous Road",
+            "The Huntsman Path - Woods Keeper"
+        ],
+        "13",
+        "Therapist",
+        [
+            57
+        ]
+    ],
+    [
+        "Health Care Privacy - Part 1",
+        "\/wiki\/Health_Care_Privacy_-_Part_1",
+        "Discovery",
+        [
+            "Find and mark the first ambulance with an MS2000 Marker on Shoreline",
+            "Find and mark the second ambulance with an MS2000 Marker on Shoreline",
+            "Find and mark the third ambulance with an MS2000 Marker on Shoreline"
+        ],
+        "Yes",
+        [
+            "Health Care Privacy - Part 2"
+        ],
+        "20",
+        "Therapist",
+        [
+            57
+        ]
+    ],
+    [
+        "Health Care Privacy - Part 2",
+        "\/wiki\/Health_Care_Privacy_-_Part_2",
+        "Discovery",
+        [
+            "Search the room in the Health Resort for any documents about TerraGroup's research",
+            "Hand over the retrieved information to Therapist",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Health Care Privacy - Part 3",
+            "Lost Contact"
+        ],
+        null,
+        "Therapist",
+        [
+            61
+        ]
+    ],
+    [
+        "Health Care Privacy - Part 3",
+        "\/wiki\/Health_Care_Privacy_-_Part_3",
+        "Discovery",
+        [
+            "Locate the van of the Health Resort medical services director on Woods",
+            "Take a sample of the blood",
+            "Hand over the blood sample",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Health Care Privacy - Part 4"
+        ],
+        null,
+        "Therapist",
+        [
+            62
+        ]
+    ],
+    [
+        "An Apple a Day Keeps the Doctor Away",
+        "\/wiki\/An_Apple_a_Day_Keeps_the_Doctor_Away",
+        "Completion",
+        [
+            "Hand over 400,000 RUB to Therapist"
+        ],
+        "No",
+        [],
+        null,
+        "Therapist",
+        [
+            65
+        ]
+    ],
+    [
+        "Health Care Privacy - Part 4",
+        "\/wiki\/Health_Care_Privacy_-_Part_4",
+        "Skill",
+        [
+            "Reach the required Health skill level of 4"
+        ],
+        "Yes",
+        [
+            "Health Care Privacy - Part 5",
+            "Private Clinic",
+            "Athlete",
+            "An Apple a Day Keeps the Doctor Away"
+        ],
+        null,
+        "Therapist",
+        [
+            63
+        ]
+    ],
+    [
+        "Athlete",
+        "\/wiki\/Athlete",
+        "Skill",
+        [
+            "Reach the required Health skill level of 10"
+        ],
+        "Yes",
+        [],
+        "30",
+        "Therapist",
+        [
+            65
+        ]
+    ],
+    [
+        "Private Clinic",
+        "\/wiki\/Private_Clinic",
+        "Completion",
+        [
+            "Find 1 Ophthalmoscope in raid",
+            "Find 1 LEDX Skin Transilluminator in raid",
+            "Hand over 1 Ophthalmoscope to Therapist",
+            "Hand over 1 LEDX Skin Transilluminator to Therapist"
+        ],
+        "Yes",
+        [
+            "Decontamination Service"
+        ],
+        "35",
+        "Therapist",
+        [
+            65
+        ]
+    ],
+    [
+        "Health Care Privacy - Part 5",
+        "\/wiki\/Health_Care_Privacy_-_Part_5",
+        "Multi",
+        [
+            "Locate the drop spot on Factory at night",
+            "Obtain 3 packs of Gunpowder \"Kite\" and stash them in the designated spot"
+        ],
+        "Yes",
+        [
+            "Decontamination Service"
+        ],
+        null,
+        "Therapist",
+        [
+            65
+        ]
+    ],
+    [
+        "Decontamination Service",
+        "\/wiki\/Decontamination_Service",
+        "Elimination",
+        [
+            "Eliminate 40 Scavs on Interchange in close range (less than 60 meters) while wearing specific gear"
+        ],
+        "Yes",
+        [],
+        null,
+        "Therapist",
+        [
+            67,
+            68
+        ]
+    ],
+    [
+        "General Wares",
+        "\/wiki\/General_Wares",
+        "Completion",
+        [
+            "Find 15 Small cans of beef stew in raid",
+            "Hand over 15 Small cans of beef stew to Therapist"
+        ],
+        "Yes",
+        [
+            "Colleagues - Part 1"
+        ],
+        null,
+        "Therapist",
+        [
+            57
+        ]
+    ],
+    [
+        "Colleagues - Part 1",
+        "\/wiki\/Colleagues_-_Part_1",
+        "Exploration",
+        [
+            "Locate the group that was sent to the Health Resort on Shoreline",
+            "Locate the group that was sent to the pier on Shoreline",
+            "Locate the group that was sent to the cottages on Shoreline",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Colleagues - Part 2",
+            "Chemistry Closet"
+        ],
+        "21",
+        "Therapist",
+        [
+            70
+        ]
+    ],
+    [
+        "Colleagues - Part 2",
+        "\/wiki\/Colleagues_-_Part_2",
+        "PickUp",
+        [
+            "Locate and obtain Sanitar's surgery kit marked with a blue symbol on Shoreline",
+            "Hand over Sanitar's surgery kit to Therapist",
+            "Locate and obtain Sanitar's ophthalmoscope on Shoreline",
+            "Hand over Sanitar's ophthalmoscope to Therapist"
+        ],
+        "Yes",
+        [
+            "The Huntsman Path - Sadist",
+            "or",
+            "Colleagues - Part 3"
+        ],
+        null,
+        "Therapist",
+        [
+            71
+        ]
+    ],
+    [
+        "Colleagues - Part 3",
+        "\/wiki\/Colleagues_-_Part_3",
+        "PickUp",
+        [
+            "Do not kill Sanitar",
+            "Find 10 TerraGroup Labs access keycards in raid",
+            "Hand over the keycards",
+            "Find AHF1-M stimulant injector in raid",
+            "Hand over the injector",
+            "Find 3-(b-TG) stimulant injector in raid",
+            "Hand over the injector"
+        ],
+        "No, but a subsequent quest Yes",
+        [
+            "TerraGroup Employee",
+            "Swift One"
+        ],
+        null,
+        "Therapist",
+        [
+            72,
+            110,
+            210
+        ]
+    ],
+    [
+        "Postman Pat - Part 2",
+        "\/wiki\/Postman_Pat_-_Part_2",
+        "PickUp",
+        [
+            "Hand over the letter from Prapor's messenger"
+        ],
+        "Yes",
+        [],
+        null,
+        "Therapist",
+        [
+            15
+        ]
+    ],
+    [
+        "Out of Curiosity",
+        "\/wiki\/Out_of_Curiosity",
+        "PickUp",
+        [
+            "Find the transport with the chemicals on Customs",
+            "Mark the vehicle with an MS2000 Marker",
+            "Survive and extract from Customs"
+        ],
+        "No, but a subsequent quest Yes",
+        [
+            "Loyalty Buyout",
+            "No Offence",
+            "Safe Corridor"
+        ],
+        "4",
+        "Therapist",
+        [
+            95
+        ]
+    ],
+    [
+        "Trust Regain",
+        "\/wiki\/Trust_Regain",
+        "PickUp",
+        [
+            "Obtain 1 Dorm room 303 key",
+            "Obtain 1 ZB-014 key",
+            "Obtain 1 Military checkpoint key",
+            "Obtain 1 Gas station storage room key",
+            "Hand over 1 Dorm room 303 key to Therapist",
+            "Hand over 1 ZB-014 key to Therapist",
+            "Hand over 1 Customs military checkpoint key to Therapist",
+            "Hand over 1 Gas station storage room key to Therapist"
+        ],
+        "No",
+        [],
+        null,
+        "Therapist",
+        [
+            32,
+            96
+        ]
+    ],
+    [
+        "Crisis",
+        "\/wiki\/Crisis",
+        "PickUp",
+        [
+            "Find 3 Portable defibrillators in raid",
+            "Find 3 Ophthalmoscopes in raid",
+            "Find 2 LEDX Skin Transilluminators in raid",
+            "Find 20 Piles of meds in raid",
+            "Find 10 Bottles of OLOLO Multivitamins in raid",
+            "Hand over the 3 ophthalmoscopes",
+            "Hand over the 3 defibrillators",
+            "Hand over the 2 LEDX",
+            "Hand over the 20 Piles of meds",
+            "Hand over the 10 multivitamins"
+        ],
+        "Yes",
+        [],
+        "48",
+        "Therapist",
+        []
+    ],
+    [
+        "Seaside Vacation",
+        "\/wiki\/Seaside_Vacation",
+        "PickUp",
+        [
+            "Find the informant's briefcase on Lighthouse",
+            "Hand over the found package"
+        ],
+        "Yes",
+        [],
+        "17",
+        "Therapist",
+        [
+            59
+        ]
+    ],
+    [
+        "Lost Contact",
+        "\/wiki\/Lost_Contact",
+        "Discovery",
+        [
+            "Find the lost group in the chalet area on Lighthouse",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Drug Trafficking"
+        ],
+        "26",
+        "Therapist",
+        [
+            62
+        ]
+    ],
+    [
+        "Population Census",
+        "\/wiki\/Population_Census",
+        "PickUp",
+        [
+            "Obtain the journal containing resident details on Streets of Tarkov",
+            "Hand over the journal"
+        ],
+        "No",
+        [
+            "Urban Medicine",
+            "Pets Won't Need It - Part 1"
+        ],
+        "12",
+        "Therapist",
+        [
+            57
+        ]
+    ],
+    [
+        "Dangerous Road",
+        "\/wiki\/Dangerous_Road",
+        "Exploration",
+        [
+            "Survive and extract from Streets of Tarkov through Primorsky Ave Taxi V-Ex"
+        ],
+        "No",
+        [],
+        "15",
+        "Therapist",
+        [
+            60,
+            109
+        ]
+    ],
+    [
+        "Urban Medicine",
+        "\/wiki\/Urban_Medicine",
+        "PickUp",
+        [
+            "Locate the chemical laboratory on Streets of Tarkov",
+            "Obtain the container with drug samples",
+            "Hand over the container"
+        ],
+        "No",
+        [
+            "The Huntsman Path - Big Game",
+            "Ambulances Again"
+        ],
+        "17",
+        "Therapist",
+        [
+            80
+        ]
+    ],
+    [
+        "Drug Trafficking",
+        "\/wiki\/Drug_Trafficking",
+        "Completion",
+        [
+            "Locate the hidden drug lab on Lighthouse",
+            "Stash a WI-FI Camera in the drug lab"
+        ],
+        "Yes",
+        [],
+        null,
+        "Therapist",
+        [
+            79
+        ]
+    ],
+    [
+        "Pets Won't Need It - Part 1",
+        "\/wiki\/Pets_Won%27t_Need_It_-_Part_1",
+        "Exploration",
+        [
+            "Locate and scout the vet clinic on Streets of Tarkov",
+            "Locate and scout the x-ray technician's room on Streets of Tarkov",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [
+            "Pets Won't Need It - Part 2"
+        ],
+        null,
+        "Therapist",
+        [
+            80
+        ]
+    ],
+    [
+        "Pets Won't Need It - Part 2",
+        "\/wiki\/Pets_Won%27t_Need_It_-_Part_2",
+        "Exploration",
+        [
+            "Locate the first pharmacy on Primorsky Ave on Streets of Tarkov",
+            "Locate the second pharmacy on Primorsky Ave on Streets of Tarkov",
+            "Locate the third pharmacy at Cardinal apartment complex on Streets of Tarkov",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [],
+        null,
+        "Therapist",
+        [
+            84
+        ]
+    ],
+    [
+        "Ambulances Again",
+        "\/wiki\/Ambulances_Again",
+        "Pickup",
+        [
+            "Locate and obtain the ambulance paramedic's smartphone on Streets of Tarkov",
+            "Extract from Streets of Tarkov through Primorsky Ave Taxi V-Ex",
+            "Hand over the smartphone"
+        ],
+        "No",
+        [],
+        null,
+        "Therapist",
+        [
+            82,
+            317
+        ]
+    ],
+    [
+        "Burning Rubber",
+        "\/wiki\/Burning_Rubber",
+        "Completion",
+        [
+            "Use the paid vehicle extraction on Ground Zero"
+        ],
+        "No",
+        [
+            "Supplier"
+        ],
+        null,
+        "Skier",
+        []
+    ],
+    [
+        "Supplier",
+        "\/wiki\/Supplier",
+        "PickUp",
+        [
+            "Hand over 1 found in raid Module-3M armor to Skier",
+            "Hand over 1 found in raid TOZ-106 shotgun to Skier"
+        ],
+        "Yes",
+        [
+            "The Extortionist",
+            "Stirrup",
+            "Friend From the West - Part 1"
+        ],
+        "5",
+        "Skier",
+        [
+            87
+        ]
+    ],
+    [
+        "The Extortionist",
+        "\/wiki\/The_Extortionist",
+        "PickUp",
+        [
+            "Obtain the hidden valuable cargo on Customs(Optional) Find the messenger's body(Optional) Find the place where the messenger hid the cargo",
+            "(Optional) Find the messenger's body",
+            "(Optional) Find the place where the messenger hid the cargo",
+            "Hand over the valuable cargo to Skier"
+        ],
+        "Yes",
+        [
+            "What\u2019s on the Flash Drive?"
+        ],
+        "7",
+        "Skier",
+        [
+            88
+        ]
+    ],
+    [
+        "Stirrup",
+        "\/wiki\/Stirrup",
+        "Elimination",
+        [
+            "Eliminate 3 PMCs while using pistols"
+        ],
+        "Yes",
+        [],
+        "8",
+        "Skier",
+        [
+            88
+        ]
+    ],
+    [
+        "What\u2019s on the Flash Drive?",
+        "\/wiki\/What%E2%80%99s_on_the_Flash_Drive%3F",
+        "PickUp",
+        [
+            "Find 2 Secure flash drives in raid",
+            "Hand over 2 Secure flash drives to Skier"
+        ],
+        "Yes",
+        [
+            "Golden Swag",
+            "Shady Business"
+        ],
+        "8",
+        "Skier",
+        [
+            89
+        ]
+    ],
+    [
+        "Golden Swag",
+        "\/wiki\/Golden_Swag",
+        "Completion",
+        [
+            "Find the Golden Zibbo lighter",
+            "Stash the Golden Zibbo lighter in the bunkhouse in the trailer parking lot on Customs"
+        ],
+        "Yes",
+        [
+            "Chemical - Part 1"
+        ],
+        "8",
+        "Skier",
+        [
+            91
+        ]
+    ],
+    [
+        "Chemical - Part 1",
+        "\/wiki\/Chemical_-_Part_1",
+        "PickUp",
+        [
+            "Obtain information about the Deputy Chief's past life on Customs(Optional) Locate the sleeping place of the former Deputy Chief of Security on Customs",
+            "(Optional) Locate the sleeping place of the former Deputy Chief of Security on Customs",
+            "Hand over the information to Skier",
+            "Obtain items that can help the investigation",
+            "Hand over the items to Skier"
+        ],
+        "Yes",
+        [
+            "Chemical - Part 2",
+            "Polikhim Hobo"
+        ],
+        "10",
+        "Skier",
+        [
+            92
+        ]
+    ],
+    [
+        "Chemical - Part 2",
+        "\/wiki\/Chemical_-_Part_2",
+        "PickUp",
+        [
+            "Find any evidence on Customs that could help with the investigation",
+            "Hand over the evidence to Skier",
+            "Find any information on Customs that could help with the investigation",
+            "Hand over the info to Skier"
+        ],
+        "Yes",
+        [
+            "Chemical - Part 3"
+        ],
+        "10",
+        "Skier",
+        [
+            93
+        ]
+    ],
+    [
+        "Chemical - Part 3",
+        "\/wiki\/Chemical_-_Part_3",
+        "PickUp",
+        [
+            "Obtain the chemical-filled syringe hidden in Factory",
+            "Hand over the chemical-filled syringe to Skier"
+        ],
+        "Yes",
+        [
+            "Vitamins - Part 1",
+            "Chemical - Part 4",
+            "or",
+            "Out of Curiosity",
+            "or",
+            "Big Customer"
+        ],
+        "11",
+        "Skier",
+        [
+            94
+        ]
+    ],
+    [
+        "Chemical - Part 4",
+        "\/wiki\/Chemical_-_Part_4",
+        "PickUp",
+        [
+            "Find the transport with the chemicals",
+            "Mark the chemical transport vehicle with an MS2000 Marker",
+            "Survive and extract from Customs"
+        ],
+        "No, but a subsequent quest Yes",
+        [
+            "No Offence",
+            "Trust Regain",
+            "Safe Corridor"
+        ],
+        "11",
+        "Skier",
+        [
+            95
+        ]
+    ],
+    [
+        "Loyalty Buyout",
+        "\/wiki\/Loyalty_Buyout",
+        "Standing",
+        [
+            "Hand over 1,000,000 RUB to Skier"
+        ],
+        "No",
+        [],
+        null,
+        "Skier",
+        [
+            32,
+            75
+        ]
+    ],
+    [
+        "Vitamins - Part 1",
+        "\/wiki\/Vitamins_-_Part_1",
+        "PickUp",
+        [
+            "Obtain the first Chemical container",
+            "Hand over the first Chemical container to Skier",
+            "Obtain the second Chemical container",
+            "Hand over the second Chemical container to Skier",
+            "Obtain the third Chemical container",
+            "Hand over the third Chemical container to Skier"
+        ],
+        "Yes",
+        [
+            "Vitamins - Part 2"
+        ],
+        "22",
+        "Skier",
+        [
+            95
+        ]
+    ],
+    [
+        "Vitamins - Part 2",
+        "\/wiki\/Vitamins_-_Part_2",
+        "PickUp",
+        [
+            "Find 4 Respirators in raid",
+            "Hand over 4 Respirators to Skier",
+            "Find 3 Medical bloodsets in raid",
+            "Hand over 3 Medical bloodsets to Skier"
+        ],
+        "Yes",
+        [
+            "Beyond the Red Meat - Part 1",
+            "Pyramid Scheme"
+        ],
+        "22",
+        "Skier",
+        [
+            98
+        ]
+    ],
+    [
+        "Friend From the West - Part 1",
+        "\/wiki\/Friend_From_the_West_-_Part_1",
+        "Elimination",
+        [
+            "Eliminate 7 USEC PMCs",
+            "Obtain 7 USEC PMC dogtags",
+            "Hand over 7 USEC PMC dogtags to Skier"
+        ],
+        "Yes",
+        [
+            "Friend From the West - Part 2"
+        ],
+        "9",
+        "Skier",
+        [
+            88
+        ]
+    ],
+    [
+        "Friend From the West - Part 2",
+        "\/wiki\/Friend_From_the_West_-_Part_2",
+        "Merchant",
+        [
+            "Hand over 6,000 USD to Skier"
+        ],
+        "Yes",
+        [
+            "Fishing Gear",
+            "Lend-Lease - Part 1",
+            "Long Road",
+            "Setup"
+        ],
+        "9",
+        "Skier",
+        [
+            100
+        ]
+    ],
+    [
+        "Informed Means Armed",
+        "\/wiki\/Informed_Means_Armed",
+        "Completion",
+        [
+            "Install a WI-FI Camera to watch the sawmill dock on Woods",
+            "Install a WI-FI Camera to watch the road to the port on Customs",
+            "Install a WI-FI Camera to watch the Kiba Arms store entrance on Interchange"
+        ],
+        "Yes",
+        [
+            "Chumming"
+        ],
+        "24",
+        "Skier",
+        [
+            106
+        ]
+    ],
+    [
+        "Chumming",
+        "\/wiki\/Chumming",
+        "Completion",
+        [
+            "Stash 3 Golden neck chains under the mattress next to BTR-82A in Generic Store on Interchange",
+            "Stash 3 Golden neck chains in the microwave on the 3rd floor of the dorm on Customs",
+            "Stash 3 Golden neck chains in the middle wooden cabin at the sawmill on Woods",
+            "Eliminate 5 PMC operatives in the time period of 22:00-10:00 on Interchange"
+        ],
+        "Yes",
+        [
+            "Flint",
+            "Debtor",
+            "Bullshit",
+            "No Swiping"
+        ],
+        "27",
+        "Skier",
+        [
+            102
+        ]
+    ],
+    [
+        "Silent Caliber",
+        "\/wiki\/Silent_Caliber",
+        "Elimination",
+        [
+            "Eliminate 20 Scavs with using a suppressed 12 gauge shotgun",
+            "Eliminate 10 PMCs while using a suppressed 12 gauge shotgun"
+        ],
+        "No",
+        [],
+        "30",
+        "Skier",
+        [
+            105
+        ]
+    ],
+    [
+        "Bullshit",
+        "\/wiki\/Bullshit",
+        "Discovery",
+        [
+            "Obtain the False flash drive from the specified spot on Customs",
+            "Stash the False flash drive in the trash opposite of the stairs on the 3rd floor of the dorm",
+            "Stash 1 SV-98 sniper rifle in the trash opposite of the stairs on the 3rd floor of the dorm",
+            "Stash 1 Roler Submariner gold wrist watch in the trash opposite of the stairs on the 3rd floor of the dorm",
+            "You must not kill any Scavs on Customs until the quest is completed"
+        ],
+        "Yes",
+        [
+            "Silent Caliber"
+        ],
+        null,
+        "Skier",
+        [
+            103
+        ]
+    ],
+    [
+        "Setup",
+        "\/wiki\/Setup",
+        "Elimination",
+        [
+            "Eliminate 15 PMC operatives while wearing the specified gear on Customs"
+        ],
+        "Yes",
+        [
+            "Informed Means Armed"
+        ],
+        "18",
+        "Skier",
+        [
+            101
+        ]
+    ],
+    [
+        "Flint",
+        "\/wiki\/Flint",
+        "Skill",
+        [
+            "Reach the required Stress resistance skill level of 5"
+        ],
+        "Yes",
+        [],
+        "35",
+        "Skier",
+        [
+            103
+        ]
+    ],
+    [
+        "Lend-Lease - Part 1",
+        "\/wiki\/Lend-Lease_-_Part_1",
+        "PickUp",
+        [
+            "Obtain the first Motor Controller on Woods",
+            "Hand over the first controller to Skier",
+            "Obtain the second Motor Controller on Shoreline",
+            "Hand over the second Motor Controller|controller to Skier",
+            "Obtain the third Motor Controller on Shoreline",
+            "Hand over the third controller to Skier",
+            "Obtain the first Single-axis Fiber Optic Gyroscope on Woods",
+            "Hand over the first Single-axis Fiber Optic Gyroscope to Skier",
+            "Obtain the second Single-axis Fiber Optic Gyroscope on Shoreline",
+            "Hand over the second Single-axis Fiber Optic Gyroscope to Skier"
+        ],
+        "Yes",
+        [
+            "Lend-Lease - Part 2"
+        ],
+        "25",
+        "Skier",
+        [
+            101
+        ]
+    ],
+    [
+        "Kind of Sabotage",
+        "\/wiki\/Kind_of_Sabotage",
+        "PickUp",
+        [
+            "Hand over Secure Folder 0052 to Skier"
+        ],
+        "No, but a subsequent quest Yes",
+        [
+            "Dangerous Road",
+            "The Huntsman Path - Woods Keeper"
+        ],
+        null,
+        "Skier",
+        [
+            57
+        ]
+    ],
+    [
+        "Rigged Game",
+        "\/wiki\/Rigged_Game",
+        "Discovery",
+        [
+            "Put an MS2000 Marker on the medical container at the Health Resort on Shoreline",
+            "Put an MS2000 Marker on the medical container by cottages on Shoreline",
+            "Put an MS2000 Marker on the medical container at the pier on Shoreline",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Night Sweep",
+            "The Huntsman Path - Sadist",
+            "or",
+            "Colleagues - Part 3"
+        ],
+        null,
+        "Skier",
+        [
+            23
+        ]
+    ],
+    [
+        "Safe Corridor",
+        "\/wiki\/Safe_Corridor",
+        "Elimination",
+        [
+            "Eliminate 10 Scavs in the underground warehouse on Reserve"
+        ],
+        "Yes",
+        [],
+        "15",
+        "Skier",
+        [
+            32,
+            75,
+            96
+        ]
+    ],
+    [
+        "Night Sweep",
+        "\/wiki\/Night_Sweep",
+        "Pickup",
+        [
+            "Find 12 unusual knives in raid",
+            "Hand over 12 knives to Skier"
+        ],
+        "No",
+        [],
+        "50",
+        "Skier",
+        [
+            110
+        ]
+    ],
+    [
+        "Long Road",
+        "\/wiki\/Long_Road",
+        "Elimination",
+        [
+            "Eliminate 15 Scavs along the main road on Lighthouse"
+        ],
+        "Yes",
+        [
+            "Missing Cargo"
+        ],
+        "20",
+        "Skier",
+        [
+            101
+        ]
+    ],
+    [
+        "Missing Cargo",
+        "\/wiki\/Missing_Cargo",
+        "Exploration",
+        [
+            "Locate the crashed helicopter on Lighthouse",
+            "Find the informant's intelligence folder",
+            "Hand over the folder"
+        ],
+        "Yes",
+        [
+            "Top Secret"
+        ],
+        "30",
+        "Skier",
+        [
+            113
+        ]
+    ],
+    [
+        "Top Secret",
+        "\/wiki\/Top_Secret",
+        "PickUp",
+        [
+            "Locate the radar station commandant's office on Lighthouse",
+            "Obtain the military HDD with archived flight routes",
+            "Hand over the drive"
+        ],
+        "No",
+        [],
+        "21",
+        "Skier",
+        [
+            114,
+            226
+        ]
+    ],
+    [
+        "House Arrest - Part 1",
+        "\/wiki\/House_Arrest_-_Part_1",
+        "Exploration",
+        [
+            "Locate where the missing group was held captive on Streets of Tarkov",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [
+            "House Arrest - Part 2"
+        ],
+        "33",
+        "Skier",
+        [
+            118
+        ]
+    ],
+    [
+        "House Arrest - Part 2",
+        "\/wiki\/House_Arrest_-_Part_2",
+        "Exploration",
+        [
+            "Locate the improvised jail warden's apartment on Streets of Tarkov",
+            "Find out what happened to the warden",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [],
+        "33",
+        "Skier",
+        [
+            116
+        ]
+    ],
+    [
+        "Debtor",
+        "\/wiki\/Debtor",
+        "Exploration",
+        [
+            "Find the debtor on Streets of Tarkov",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [
+            "House Arrest - Part 1"
+        ],
+        "31",
+        "Skier",
+        [
+            103
+        ]
+    ],
+    [
+        "Beyond the Red Meat - Part 1",
+        "\/wiki\/Beyond_the_Red_Meat_-_Part_1",
+        "Pickup",
+        [
+            "Locate and obtain information on culinary secrets at the Beluga restaurant on Streets of Tarkov",
+            "Hand over the found data"
+        ],
+        "No",
+        [
+            "Beyond the Red Meat - Part 2"
+        ],
+        null,
+        "Skier",
+        [
+            99
+        ]
+    ],
+    [
+        "Beyond the Red Meat - Part 2",
+        "\/wiki\/Beyond_the_Red_Meat_-_Part_2",
+        "Pickup",
+        [
+            "Locate and obtain the secret ingredient at the TerraGroup office on Streets of Tarkov",
+            "Hand over the chemical additive"
+        ],
+        "No",
+        [],
+        null,
+        "Skier",
+        [
+            119
+        ]
+    ],
+    [
+        "Pyramid Scheme",
+        "\/wiki\/Pyramid_Scheme",
+        "Exploration",
+        [
+            "Locate the first ATM on Nizhnaya Sadovaya Street on Streets of Tarkov",
+            "Locate the second ATM on Nizhnaya Sadovaya Street on Streets of Tarkov",
+            "Locate the ATM on Razvedchikov Street on Streets of Tarkov",
+            "Locate the first group of ATMs on Klimov Street on Streets of Tarkov",
+            "Locate the first ATM on Klimov Street on Streets of Tarkov",
+            "Locate the group of ATMs on Klimov Street on Streets of Tarkov",
+            "Locate the second ATM on Klimov Street on Streets of Tarkov",
+            "Locate the fourth group of ATMs on Klimov Street on Streets of Tarkov",
+            "Locate the fifth group of ATMs on Klimov Street on Streets of Tarkov",
+            "Locate the third ATM on Klimov Street on Streets of Tarkov",
+            "Locate the fourth ATM on Klimov Street on Streets of Tarkov",
+            "Locate the first ATM on Primorsky Ave on Streets of Tarkov",
+            "Locate the second ATM on Primorsky Ave on Streets of Tarkov",
+            "Locate the third ATM on Primorsky Ave on Streets of Tarkov",
+            "Locate the ATM at the expo on Streets of Tarkov"
+        ],
+        "No",
+        [],
+        "28",
+        "Skier",
+        [
+            99
+        ]
+    ],
+    [
+        "No Swiping",
+        "\/wiki\/No_Swiping",
+        "Elimination",
+        [
+            "Locate the smugglers' base on Shoreline",
+            "Eliminate any 25 enemies in the base area"
+        ],
+        "No",
+        [],
+        null,
+        "Skier",
+        [
+            103
+        ]
+    ],
+    [
+        "Fishing Gear",
+        "\/wiki\/Fishing_Gear",
+        "Completion",
+        [
+            "Find the boat hidden next to the breakwater on Shoreline",
+            "Stash 1 sniper rifle in the boat",
+            "Stash 1 multitool in the boat",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Tigr Safari",
+            "Samples"
+        ],
+        "10",
+        "Peacekeeper",
+        [
+            101
+        ]
+    ],
+    [
+        "Tigr Safari",
+        "\/wiki\/Tigr_Safari",
+        "Discovery",
+        [
+            "Mark the first Tigr vehicle with an MS2000 Marker on Customs",
+            "Mark the second Tigr vehicle with an MS2000 Marker on Customs",
+            "Mark the third Tigr vehicle with an MS2000 Marker on Customs",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Scrap Metal"
+        ],
+        "10",
+        "Peacekeeper",
+        [
+            123
+        ]
+    ],
+    [
+        "Scrap Metal",
+        "\/wiki\/Scrap_Metal",
+        "Discovery",
+        [
+            "Mark the first T-90 tank with an MS2000 Marker on Shoreline",
+            "Mark the second T-90 tank with an MS2000 Marker on Shoreline",
+            "Mark the third T-90 tank with an MS2000 Marker on Shoreline",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Eagle Eye"
+        ],
+        "10",
+        "Peacekeeper",
+        [
+            124
+        ]
+    ],
+    [
+        "Eagle Eye",
+        "\/wiki\/Eagle_Eye",
+        "PickUp",
+        [
+            "Find the first UAV crash site on Shoreline",
+            "Obtain the SAS disk from the first crashed drone",
+            "Hand over the first SAS disk  to Peacekeeper",
+            "Find the second UAV crash site on Shoreline",
+            "Obtain the SAS disk from the second crashed drone",
+            "Hand over the second SAS disk  to Peacekeeper"
+        ],
+        "Yes",
+        [
+            "Humanitarian Supplies"
+        ],
+        "11",
+        "Peacekeeper",
+        [
+            125
+        ]
+    ],
+    [
+        "Humanitarian Supplies",
+        "\/wiki\/Humanitarian_Supplies",
+        "Discovery",
+        [
+            "Mark the first truck with an MS2000 Marker(Optional) Find the first truck that was holding the lost UN cargo on Shoreline",
+            "(Optional) Find the first truck that was holding the lost UN cargo on Shoreline",
+            "Mark the second truck with an MS2000 Marker(Optional) Find the second truck that was holding the lost UN cargo on Shoreline",
+            "(Optional) Find the second truck that was holding the lost UN cargo on Shoreline",
+            "Obtain 5 MRE ration packs",
+            "Hand over 5 MRE ration packs to Peacekeeper",
+            "Survive and extract from the location",
+            "Eliminate 10 Scavs on Shoreline while wearing a UN uniform (MF-UNTAR body armor and UN helmet)"
+        ],
+        "Yes",
+        [
+            "The Cult - Part 1",
+            "Spa Tour - Part 1",
+            "Revision - Reserve"
+        ],
+        "11",
+        "Peacekeeper",
+        [
+            126
+        ]
+    ],
+    [
+        "The Cult - Part 1",
+        "\/wiki\/The_Cult_-_Part_1",
+        "Exploration",
+        [
+            "Find the missing informant on Shoreline",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "The Cult - Part 2"
+        ],
+        "12",
+        "Peacekeeper",
+        [
+            127
+        ]
+    ],
+    [
+        "The Cult - Part 2",
+        "\/wiki\/The_Cult_-_Part_2",
+        "Exploration",
+        [
+            "Put the MS2000 Marker in the first ritual spot on Woods",
+            "Put the MS2000 Marker in the ritual spot on Customs",
+            "Put the MS2000 Marker in the second ritual spot on Woods",
+            "Put the MS2000 Marker in the ritual spot on Shoreline"
+        ],
+        "Yes",
+        [],
+        "12",
+        "Peacekeeper",
+        [
+            128
+        ]
+    ],
+    [
+        "Spa Tour - Part 1",
+        "\/wiki\/Spa_Tour_-_Part_1",
+        "Elimination",
+        [
+            "Headshot 7 Scavs on Shoreline while using a 12 gauge shotgun"
+        ],
+        "Yes",
+        [
+            "Spa Tour - Part 2",
+            "Overpopulation"
+        ],
+        "12",
+        "Peacekeeper",
+        [
+            127
+        ]
+    ],
+    [
+        "Spa Tour - Part 2",
+        "\/wiki\/Spa_Tour_-_Part_2",
+        "Exploration",
+        [
+            "Mark the helicopter on Shoreline with an MS2000 Marker",
+            "Mark the safe road on Shoreline with an MS2000 Marker",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Spa Tour - Part 3"
+        ],
+        "12",
+        "Peacekeeper",
+        [
+            130
+        ]
+    ],
+    [
+        "Spa Tour - Part 3",
+        "\/wiki\/Spa_Tour_-_Part_3",
+        "PickUp",
+        [
+            "Find 1 WD-40 (100ml) in raid",
+            "Hand over 1 WD-40 (100ml) to Peacekeeper",
+            "Find 2 Clin window cleaners in raid",
+            "Hand over 2 Clin window cleaners to Peacekeeper",
+            "Find 2 Corrugated hoses in raid",
+            "Hand over 2 Corrugated hoses to Peacekeeper",
+            "Find 2 Ox bleaches in raid",
+            "Hand over 2 Ox bleaches to Peacekeeper"
+        ],
+        "Yes",
+        [
+            "Spa Tour - Part 4",
+            "Counteraction"
+        ],
+        "12",
+        "Peacekeeper",
+        [
+            131
+        ]
+    ],
+    [
+        "Spa Tour - Part 4",
+        "\/wiki\/Spa_Tour_-_Part_4",
+        "Discovery",
+        [
+            "Locate the generators in the east wing of the Health Resort",
+            "Locate the generators in the west wing of the Health Resort",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Spa Tour - Part 5"
+        ],
+        "12",
+        "Peacekeeper",
+        [
+            132
+        ]
+    ],
+    [
+        "Spa Tour - Part 5",
+        "\/wiki\/Spa_Tour_-_Part_5",
+        "PickUp",
+        [
+            "Obtain the key to the closed premises of the Sanatorium",
+            "Hand over the key to Peacekeeper"
+        ],
+        "Yes",
+        [
+            "Spa Tour - Part 6"
+        ],
+        "12",
+        "Peacekeeper",
+        [
+            133
+        ]
+    ],
+    [
+        "Spa Tour - Part 6",
+        "\/wiki\/Spa_Tour_-_Part_6",
+        "Standing",
+        [
+            "Hand over 8,000 USD to Peacekeeper"
+        ],
+        "Yes",
+        [
+            "Spa Tour - Part 7"
+        ],
+        "12",
+        "Peacekeeper",
+        [
+            134
+        ]
+    ],
+    [
+        "Spa Tour - Part 7",
+        "\/wiki\/Spa_Tour_-_Part_7",
+        "PickUp",
+        [
+            "Find 4 Morphine injectors in raid",
+            "Hand over 4 Morphine injectors to Peacekeeper",
+            "Find 2 Alkaline cleaners for heat exchangers in raid",
+            "Hand over 2 Alkaline cleaners for heat exchangers to Peacekeeper",
+            "Find 2 Corrugated hoses in raid",
+            "Hand over 2 Corrugated hoses to Peacekeeper",
+            "Find 2 5L propane tanks in raid",
+            "Hand over 2 5L propane tanks to Peacekeeper"
+        ],
+        "Yes",
+        [
+            "Wet Job - Part 1",
+            "Cargo X - Part 1",
+            "Green Corridor",
+            "Road Closed"
+        ],
+        "12",
+        "Peacekeeper",
+        [
+            135
+        ]
+    ],
+    [
+        "Cargo X - Part 1",
+        "\/wiki\/Cargo_X_-_Part_1",
+        "PickUp",
+        [
+            "Obtain the data in the computer room in the east wing of the Health Resort",
+            "Hand over the retrieved data to Peacekeeper"
+        ],
+        "Yes",
+        [
+            "Cargo X - Part 2"
+        ],
+        "12",
+        "Peacekeeper",
+        [
+            136
+        ]
+    ],
+    [
+        "Cargo X - Part 2",
+        "\/wiki\/Cargo_X_-_Part_2",
+        "Exploration",
+        [
+            "Locate the room with reservoirs in the Health Resort",
+            "Obtain any information about the second part of the cargo shipment",
+            "Hand over the retrieved information to Peacekeeper"
+        ],
+        "Yes",
+        [
+            "Cargo X - Part 3"
+        ],
+        "12",
+        "Peacekeeper",
+        [
+            137
+        ]
+    ],
+    [
+        "Cargo X - Part 3",
+        "\/wiki\/Cargo_X_-_Part_3",
+        "Multi",
+        [
+            "Find the hidden TerraGroup cargo on Shoreline",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Cargo X - Part 4"
+        ],
+        "12",
+        "Peacekeeper",
+        [
+            138
+        ]
+    ],
+    [
+        "Wet Job - Part 1",
+        "\/wiki\/Wet_Job_-_Part_1",
+        "Elimination",
+        [
+            "Eliminate 10 Scavs while using a suppressed M4A1, ADAR or TX-15 on Shoreline"
+        ],
+        "Yes",
+        [
+            "Wet Job - Part 2"
+        ],
+        "14",
+        "Peacekeeper",
+        [
+            136
+        ]
+    ],
+    [
+        "Wet Job - Part 2",
+        "\/wiki\/Wet_Job_-_Part_2",
+        "Exploration",
+        [
+            "Find the fishermen's dwelling on Shoreline",
+            "Mark the fishing table with an MS2000 Marker",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Wet Job - Part 3"
+        ],
+        "14",
+        "Peacekeeper",
+        [
+            140
+        ]
+    ],
+    [
+        "Wet Job - Part 3",
+        "\/wiki\/Wet_Job_-_Part_3",
+        "Exploration",
+        [
+            "Find Artyom's car on Shoreline",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Wet Job - Part 4"
+        ],
+        "14",
+        "Peacekeeper",
+        [
+            141
+        ]
+    ],
+    [
+        "Wet Job - Part 4",
+        "\/wiki\/Wet_Job_-_Part_4",
+        "PickUp",
+        [
+            "Obtain a list of the resort's tenants on Shoreline",
+            "Hand over the list of tenants to Peacekeeper"
+        ],
+        "Yes",
+        [
+            "Wet Job - Part 5",
+            "Mentor"
+        ],
+        "14",
+        "Peacekeeper",
+        [
+            142
+        ]
+    ],
+    [
+        "Wet Job - Part 5",
+        "\/wiki\/Wet_Job_-_Part_5",
+        "PickUp",
+        [
+            "Obtain information on Artyom's work on Shoreline",
+            "Hand over the information to Peacekeeper"
+        ],
+        "Yes",
+        [
+            "Wet Job - Part 6",
+            "Worst Job in the World"
+        ],
+        "14",
+        "Peacekeeper",
+        [
+            143
+        ]
+    ],
+    [
+        "Mentor",
+        "\/wiki\/Mentor",
+        "Completion",
+        [
+            "Hand over 50,000 EUR to Peacekeeper"
+        ],
+        "No",
+        [],
+        null,
+        "Peacekeeper",
+        [
+            143
+        ]
+    ],
+    [
+        "Wet Job - Part 6",
+        "\/wiki\/Wet_Job_-_Part_6",
+        "Skill",
+        [
+            "Reach the required Sniper Rifles skill level of 7"
+        ],
+        "Yes",
+        [
+            "Psycho Sniper",
+            "The Guide"
+        ],
+        "14",
+        "Peacekeeper",
+        [
+            144
+        ]
+    ],
+    [
+        "The Guide",
+        "\/wiki\/The_Guide",
+        "Exploration",
+        [
+            "Survive and extract from Woods with the \"Survived\" exit status",
+            "Survive and extract from Customs with the \"Survived\" exit status",
+            "Survive and extract from Interchange with the \"Survived\" exit status",
+            "Survive and extract from Shoreline with the \"Survived\" exit status",
+            "Survive and extract from Factory with the \"Survived\" exit status",
+            "Survive and extract from The Lab with the \"Survived\" exit status",
+            "Survive and extract from Reserve with the \"Survived\" exit status",
+            "Survive and extract from Lighthouse with the \"Survived\" exit status",
+            "Survive and extract from Streets of Tarkov with the \"Survived\" exit status"
+        ],
+        "Yes",
+        [
+            "The Cleaner"
+        ],
+        "40",
+        "Peacekeeper",
+        [
+            146
+        ]
+    ],
+    [
+        "Samples",
+        "\/wiki\/Samples",
+        "PickUp",
+        [
+            "Find 1 M.U.L.E. stimulant injector in raid",
+            "Hand over 1 M.U.L.E. stimulant injector to Peacekeeper",
+            "Find 1 \"Obdolbos\" cocktail injector in raid",
+            "Hand over 1 \"Obdolbos\" cocktail injector to Peacekeeper",
+            "Find 1 Meldonin stimulant injector in raid",
+            "Hand over 1 Meldonin stimulant injector to Peacekeeper",
+            "Find 1 AHF1-M stimulant injector in raid",
+            "Hand over 1 AHF1-M stimulant injector to Peacekeeper",
+            "Find 1 P22 (Product 22) stimulant injector in raid",
+            "Hand over 1 P22 (Product 22) stimulant injector to Peacekeeper",
+            "Find 1 L1 (Norepinephrine) stimulant injector in raid",
+            "Hand over 1 L1 (Norepinephrine) stimulant injector to Peacekeeper",
+            "Find 1 3-(b-TG) stimulant injector in raid",
+            "Hand over 1 3-(b-TG) stimulant injector to Peacekeeper"
+        ],
+        "Yes",
+        [
+            "TerraGroup Employee"
+        ],
+        null,
+        "Peacekeeper",
+        [
+            23,
+            123
+        ]
+    ],
+    [
+        "TerraGroup Employee",
+        "\/wiki\/TerraGroup_Employee",
+        "PickUp",
+        [
+            "Find Sanitar's workplace in the Lab",
+            "Obtain information about Sanitar's work",
+            "Hand over the Flash drive marked with blue tape to Peacekeeper"
+        ],
+        "Yes",
+        [],
+        "23",
+        "Peacekeeper",
+        [
+            73,
+            148,
+            308
+        ]
+    ],
+    [
+        "Lend-Lease - Part 2",
+        "\/wiki\/Lend-Lease_-_Part_2",
+        "PickUp",
+        [
+            "Find 2 Virtex programmable processors in raid",
+            "Find 1 Military COFDM Wireless Signal Transmitter in raid",
+            "Hand over 2 Virtex programmable processors to Peacekeeper",
+            "Hand over 1 Military COFDM Wireless Signal Transmitter to Peacekeeper"
+        ],
+        "Yes",
+        [
+            "Peacekeeping Mission"
+        ],
+        "30",
+        "Peacekeeper",
+        [
+            108
+        ]
+    ],
+    [
+        "Peacekeeping Mission",
+        "\/wiki\/Peacekeeping_Mission",
+        "Elimination",
+        [
+            "Eliminate 12 Scavs on Woods while wearing a UN uniform (UN helmet, MF-UNTAR body armor, M4A1 rifle)",
+            "Eliminate 12 Scavs on Customs while wearing a UN uniform (UN helmet, MF-UNTAR body armor, M4A1 rifle)",
+            "Eliminate 12 Scavs on Interchange while wearing a UN uniform (UN helmet, MF-UNTAR body armor, M4A1 rifle)",
+            "Eliminate 12 Scavs on Shoreline while wearing a UN uniform (UN helmet, MF-UNTAR body armor, M4A1 rifle)",
+            "Eliminate 12 Scavs on Streets of Tarkov while wearing a UN uniform (UN helmet, MF-UNTAR body armor, M4A1 rifle)"
+        ],
+        "Yes",
+        [],
+        null,
+        "Peacekeeper",
+        [
+            150
+        ]
+    ],
+    [
+        "Classified Technologies",
+        "\/wiki\/Classified_Technologies",
+        "Pickup",
+        [
+            "Obtain the package with T-90M Commander control panel on Reserve",
+            "Hand over the package to Peacekeeper"
+        ],
+        "Yes",
+        [],
+        "14",
+        "Peacekeeper",
+        [
+            153
+        ]
+    ],
+    [
+        "Revision - Reserve",
+        "\/wiki\/Revision_-_Reserve",
+        "Discovery",
+        [
+            "Locate and inspect the first BMP-2 on Reserve",
+            "Mark the first BMP-2 with an MS2000 Marker",
+            "Locate and inspect the second BMP-2 on Reserve",
+            "Mark the second BMP-2 with an MS2000 Marker",
+            "Locate and inspect the third BMP-2 on Reserve",
+            "Mark the third BMP-2 with an MS2000 Marker",
+            "Locate and inspect the fourth BMP-2 on Reserve",
+            "Mark the fourth BMP-2 with an MS2000 Marker",
+            "Locate and inspect the first LAV III on Reserve",
+            "Mark the first LAV III with an MS2000 Marker",
+            "Locate and inspect the second LAV III on Reserve",
+            "Locate and inspect the T-90 tank on Reserve"
+        ],
+        "Yes",
+        [
+            "Classified Technologies",
+            "Revision - Lighthouse",
+            "Revision - Streets of Tarkov"
+        ],
+        "14",
+        "Peacekeeper",
+        [
+            127
+        ]
+    ],
+    [
+        "The Cleaner",
+        "\/wiki\/The_Cleaner",
+        "Elimination",
+        [
+            "Eliminate 40 Scav Raiders on Reserve"
+        ],
+        "No",
+        [],
+        "45",
+        "Peacekeeper",
+        [
+            147
+        ]
+    ],
+    [
+        "Special Equipment",
+        "\/wiki\/Special_Equipment",
+        "PickUp",
+        [
+            "Find 5 VPX Flash Storage Modules in raid",
+            "Find 5 UHF RFID Readers in raid",
+            "Find 5 Virtex programmable processors in raid",
+            "Find 5 Military COFDM Wireless Signal Transmitters in raid",
+            "Find 4 Military flash drives in raid",
+            "Handover 5 VPX Flash Storage Modules to Peacekeeper",
+            "Handover 5 UHF RFID Readers to Peacekeeper",
+            "Handover 5 Virtex programmable processors to Peacekeeper",
+            "Handover 5 Military COFDM Wireless Signal Transmitters to Peacekeeper",
+            "Handover 4 flash drives"
+        ],
+        "No",
+        [],
+        "60",
+        "Peacekeeper",
+        [
+            161
+        ]
+    ],
+    [
+        "Cargo X - Part 4",
+        "\/wiki\/Cargo_X_-_Part_4",
+        "Discovery",
+        [
+            "Locate and mark the TerraGroup cargo with an MS2000 Marker on Lighthouse",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Your Car Needs a Service",
+            "Insomnia"
+        ],
+        null,
+        "Peacekeeper",
+        [
+            139
+        ]
+    ],
+    [
+        "Insomnia",
+        "\/wiki\/Insomnia",
+        "Elimination",
+        [
+            "Eliminate 30 PMC operatives in the time period of 22:00-05:00 (Excluding Factory and  The Lab)"
+        ],
+        "Yes",
+        [],
+        null,
+        "Peacekeeper",
+        [
+            156
+        ]
+    ],
+    [
+        "Counteraction",
+        "\/wiki\/Counteraction",
+        "Elimination",
+        [
+            "Eliminate 20 BEAR PMC operatives all over the Lighthouse territory",
+            "Hand over 20 found in raid BEAR PMC dogtags"
+        ],
+        "No",
+        [],
+        "30",
+        "Peacekeeper",
+        [
+            132
+        ]
+    ],
+    [
+        "Overpopulation",
+        "\/wiki\/Overpopulation",
+        "Elimination",
+        [
+            "Secure the cottage area from Scavs on Lighthouse"
+        ],
+        "Yes",
+        [],
+        "15",
+        "Peacekeeper",
+        [
+            130
+        ]
+    ],
+    [
+        "Revision - Lighthouse",
+        "\/wiki\/Revision_-_Lighthouse",
+        "Discovery",
+        [
+            "Locate and mark the first BRDM with an MS2000 Marker",
+            "Locate and mark the second BRDM with an MS2000 Marker",
+            "Locate and mark the first Stryker with an MS2000 Marker",
+            "Locate and mark the second Stryker with an MS2000 Marker"
+        ],
+        "Yes",
+        [],
+        null,
+        "Peacekeeper",
+        [
+            153
+        ]
+    ],
+    [
+        "Trophies",
+        "\/wiki\/Trophies",
+        "Pickup",
+        [
+            "Find in raid and handover 20\u00d7 BEAR PMC Dogtags of level 50+",
+            "Find in raid and handover 20\u00d7 USEC PMC Dogtags of level 50+"
+        ],
+        "No",
+        [
+            "Special Equipment"
+        ],
+        "55",
+        "Peacekeeper",
+        [
+            287
+        ]
+    ],
+    [
+        "Revision - Streets of Tarkov",
+        "\/wiki\/Revision_-_Streets_of_Tarkov",
+        "Discovery",
+        [
+            "Locate and mark the first LAV III with an MS2000 Marker on Streets of Tarkov",
+            "Locate and mark the Stryker with an MS2000 Marker on Streets of Tarkov",
+            "Locate and mark the second LAV III with an MS2000 Marker on Streets of Tarkov",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [
+            "Worst Job in the World"
+        ],
+        "17",
+        "Peacekeeper",
+        [
+            153
+        ]
+    ],
+    [
+        "Road Closed",
+        "\/wiki\/Road_Closed",
+        "Exploration",
+        [
+            "Locate the cargo convoy on Streets of Tarkov",
+            "Determine the ambush spot",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [],
+        "20",
+        "Peacekeeper",
+        [
+            136
+        ]
+    ],
+    [
+        "Worst Job in the World",
+        "\/wiki\/Worst_Job_in_the_World",
+        "Elimination",
+        [
+            "Eliminate any 30 hostiles from over 100 meters away while using AR-15 platform weapons"
+        ],
+        "No",
+        [],
+        "25",
+        "Peacekeeper",
+        [
+            144,
+            162
+        ]
+    ],
+    [
+        "Your Car Needs a Service",
+        "\/wiki\/Your_Car_Needs_a_Service",
+        "PickUp",
+        [
+            "Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov",
+            "Hand over the digital storage device"
+        ],
+        "No",
+        [],
+        "35",
+        "Peacekeeper",
+        [
+            156
+        ]
+    ],
+    [
+        "Saving the Mole",
+        "\/wiki\/Saving_the_Mole",
+        "PickUp",
+        [
+            "Locate the USEC PMC group at the parking lot of the TerraGroup complex on Ground Zero",
+            "Locate the lab scientist on Ground Zero",
+            "Access the scientist's office",
+            "Locate and obtain the scientist's hard drive",
+            "Hand over the hard drive"
+        ],
+        "No",
+        [
+            "Gunsmith - Part 1"
+        ],
+        null,
+        "Mechanic",
+        []
+    ],
+    [
+        "Introduction",
+        "\/wiki\/Introduction",
+        "Completion",
+        [
+            "Find Jaeger's camp at the specified spot on Woods",
+            "Obtain Jaeger's encrypted message",
+            "Hand over the message to Mechanic"
+        ],
+        "Yes",
+        [
+            "Acquaintance"
+        ],
+        "2",
+        "Mechanic",
+        [
+            168
+        ]
+    ],
+    [
+        "Gunsmith - Part 1",
+        "\/wiki\/Gunsmith_-_Part_1",
+        "Parameter-oriented modding",
+        [
+            "Modify an MP-133 to comply with the required specification"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 2",
+            "Gunsmith - Part 3",
+            "Farming - Part 1",
+            "Introduction"
+        ],
+        "2",
+        "Mechanic",
+        [
+            166
+        ]
+    ],
+    [
+        "Gunsmith - Part 2",
+        "\/wiki\/Gunsmith_-_Part_2",
+        "Parameter-oriented modding",
+        [
+            "Modify an AKS-74U to comply with the given specifications"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 4",
+            "Signal - Part 1"
+        ],
+        "5",
+        "Mechanic",
+        [
+            168
+        ]
+    ],
+    [
+        "Gunsmith - Part 3",
+        "\/wiki\/Gunsmith_-_Part_3",
+        "Parameter-oriented modding",
+        [
+            "Modify an MP5 to comply with the given specifications"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 4",
+            "Insider"
+        ],
+        "7",
+        "Mechanic",
+        [
+            168
+        ]
+    ],
+    [
+        "Gunsmith - Part 4",
+        "\/wiki\/Gunsmith_-_Part_4",
+        "Parameter-oriented modding",
+        [
+            "Modify an OP-SKS to comply with the given specifications"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 5"
+        ],
+        "10",
+        "Mechanic",
+        [
+            169,
+            170
+        ]
+    ],
+    [
+        "Gunsmith - Part 5",
+        "\/wiki\/Gunsmith_-_Part_5",
+        "Parameter-oriented modding",
+        [
+            "Modify a Remington Model 870 to comply with the given specifications"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 6"
+        ],
+        "10",
+        "Mechanic",
+        [
+            171
+        ]
+    ],
+    [
+        "Gunsmith - Part 6",
+        "\/wiki\/Gunsmith_-_Part_6",
+        "Parameter-oriented modding",
+        [
+            "Modify an AKM to comply with the given specifications"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 7"
+        ],
+        "14",
+        "Mechanic",
+        [
+            172
+        ]
+    ],
+    [
+        "Gunsmith - Part 7",
+        "\/wiki\/Gunsmith_-_Part_7",
+        "Parameter-oriented modding",
+        [
+            "Modify an M4A1 to comply with the given specifications"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 8"
+        ],
+        "15",
+        "Mechanic",
+        [
+            173
+        ]
+    ],
+    [
+        "Gunsmith - Part 8",
+        "\/wiki\/Gunsmith_-_Part_8",
+        "Parameter-oriented modding",
+        [
+            "Modify an AKS-74N to comply with the given specifications"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 9"
+        ],
+        "17",
+        "Mechanic",
+        [
+            174
+        ]
+    ],
+    [
+        "Gunsmith - Part 9",
+        "\/wiki\/Gunsmith_-_Part_9",
+        "Parameter-oriented modding",
+        [
+            "Modify an P226R to comply with the given specifications"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 10"
+        ],
+        "19",
+        "Mechanic",
+        [
+            175
+        ]
+    ],
+    [
+        "Gunsmith - Part 10",
+        "\/wiki\/Gunsmith_-_Part_10",
+        "Parameter-oriented modding",
+        [
+            "Modify an AK-105 to comply with the given specifications"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 11"
+        ],
+        "20",
+        "Mechanic",
+        [
+            176
+        ]
+    ],
+    [
+        "Gunsmith - Part 11",
+        "\/wiki\/Gunsmith_-_Part_11",
+        "Parameter-oriented modding",
+        [
+            "Modify a KRISS Vector 9x19 to comply with the given specifications"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 12"
+        ],
+        "22",
+        "Mechanic",
+        [
+            177
+        ]
+    ],
+    [
+        "Gunsmith - Part 12",
+        "\/wiki\/Gunsmith_-_Part_12",
+        "Parameter-oriented modding",
+        [
+            "Modify a SIG MPX to comply with the required specification"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 13"
+        ],
+        "23",
+        "Mechanic",
+        [
+            178
+        ]
+    ],
+    [
+        "Gunsmith - Part 13",
+        "\/wiki\/Gunsmith_-_Part_13",
+        "Parameter-oriented modding",
+        [
+            "Modify an R11 RSASS to comply with the given specifications"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 14"
+        ],
+        "25",
+        "Mechanic",
+        [
+            179
+        ]
+    ],
+    [
+        "Gunsmith - Part 14",
+        "\/wiki\/Gunsmith_-_Part_14",
+        "Parameter-oriented modding",
+        [
+            "Modify an HK 416A5 to comply with the required specification"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 15"
+        ],
+        "27",
+        "Mechanic",
+        [
+            180
+        ]
+    ],
+    [
+        "Gunsmith - Part 15",
+        "\/wiki\/Gunsmith_-_Part_15",
+        "Parameter-oriented modding",
+        [
+            "Modify an AS VAL to comply with the given specifications"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 16"
+        ],
+        "29",
+        "Mechanic",
+        [
+            181
+        ]
+    ],
+    [
+        "Gunsmith - Part 16",
+        "\/wiki\/Gunsmith_-_Part_16",
+        "Parameter-oriented modding",
+        [
+            "Modify a DVL-10 to comply with the given specifications"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 17"
+        ],
+        "30",
+        "Mechanic",
+        [
+            182
+        ]
+    ],
+    [
+        "Gunsmith - Part 17",
+        "\/wiki\/Gunsmith_-_Part_17",
+        "Parameter-oriented modding",
+        [
+            "Modify an AK-102 to comply with the required specification"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 18"
+        ],
+        "31",
+        "Mechanic",
+        [
+            183
+        ]
+    ],
+    [
+        "Gunsmith - Part 18",
+        "\/wiki\/Gunsmith_-_Part_18",
+        "Parameter-oriented modding",
+        [
+            "Modify an AKMN to comply with the required specification"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 19"
+        ],
+        "33",
+        "Mechanic",
+        [
+            184
+        ]
+    ],
+    [
+        "Gunsmith - Part 19",
+        "\/wiki\/Gunsmith_-_Part_19",
+        "Parameter-oriented modding",
+        [
+            "Modify an SVDS to comply with the required specification"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 20"
+        ],
+        "36",
+        "Mechanic",
+        [
+            185
+        ]
+    ],
+    [
+        "Gunsmith - Part 20",
+        "\/wiki\/Gunsmith_-_Part_20",
+        "Parameter-oriented modding",
+        [
+            "Modify an M1A to comply with the required specification"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 21"
+        ],
+        "37",
+        "Mechanic",
+        [
+            186
+        ]
+    ],
+    [
+        "Gunsmith - Part 21",
+        "\/wiki\/Gunsmith_-_Part_21",
+        "Parameter-oriented modding",
+        [
+            "Modify an M700 to comply with the required specification",
+            "Modify an M1911 to comply with the required specification"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 22"
+        ],
+        "38",
+        "Mechanic",
+        [
+            187
+        ]
+    ],
+    [
+        "Gunsmith - Part 22",
+        "\/wiki\/Gunsmith_-_Part_22",
+        "Parameter-oriented modding",
+        [
+            "Modify an M4A1 to comply with the required specification"
+        ],
+        "Yes",
+        [
+            "Gunsmith - Part 23"
+        ],
+        "39",
+        "Mechanic",
+        [
+            188
+        ]
+    ],
+    [
+        "Gunsmith - Part 23",
+        "\/wiki\/Gunsmith_-_Part_23",
+        "Parameter-oriented modding",
+        [
+            "Modify a CMMG Mk47 Mutant to comply with the given specifications"
+        ],
+        "No",
+        [
+            "Gunsmith - Part 24"
+        ],
+        "21",
+        "Mechanic",
+        [
+            189
+        ]
+    ],
+    [
+        "Gunsmith - Part 24",
+        "\/wiki\/Gunsmith_-_Part_24",
+        "Parameter-oriented modding",
+        [
+            "Modify a KAC SR-25 to comply with the given specifications"
+        ],
+        "No",
+        [
+            "Gunsmith - Part 25"
+        ],
+        "21",
+        "Mechanic",
+        [
+            190
+        ]
+    ],
+    [
+        "Gunsmith - Part 25",
+        "\/wiki\/Gunsmith_-_Part_25",
+        "Parameter-oriented modding",
+        [
+            "Modify a PKP machine gun to comply with the given specifications"
+        ],
+        "No",
+        [],
+        "21",
+        "Mechanic",
+        [
+            191
+        ]
+    ],
+    [
+        "Signal - Part 1",
+        "\/wiki\/Signal_-_Part_1",
+        "Discovery",
+        [
+            "Find the first signal source",
+            "Find the second signal source",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Signal - Part 2",
+            "Insider"
+        ],
+        "12",
+        "Mechanic",
+        [
+            169
+        ]
+    ],
+    [
+        "Insider",
+        "\/wiki\/Insider",
+        "Standing",
+        [
+            "Reach level 3 loyalty with Prapor"
+        ],
+        "Yes",
+        [],
+        "12",
+        "Mechanic",
+        [
+            170,
+            193
+        ]
+    ],
+    [
+        "Signal - Part 2",
+        "\/wiki\/Signal_-_Part_2",
+        "PickUp",
+        [
+            "Find 3 PC CPUs in raid",
+            "Hand over 3 PC CPUs to Mechanic",
+            "Find 3 Rechargeable batteries in raid",
+            "Hand over 3 Rechargeable batteries to Mechanic",
+            "Find 3 Printed circuit boards in raid",
+            "Hand over 3 Printed circuit boards to Mechanic",
+            "Find 3 Broken GPhone smartphones in raid",
+            "Hand over 3 Broken GPhone smartphones to Mechanic"
+        ],
+        "Yes",
+        [
+            "Signal - Part 3",
+            "Scout"
+        ],
+        "12",
+        "Mechanic",
+        [
+            193
+        ]
+    ],
+    [
+        "Scout",
+        "\/wiki\/Scout",
+        "Completion",
+        [
+            "Locate the first Factory extraction",
+            "Locate the second Factory extraction",
+            "Locate the third Factory extraction",
+            "Locate the fourth Factory extraction",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Back Door",
+            "The Huntsman Path - Factory Chief"
+        ],
+        "12",
+        "Mechanic",
+        [
+            195
+        ]
+    ],
+    [
+        "Surplus Goods",
+        "\/wiki\/Surplus_Goods",
+        "Pickup",
+        [
+            "Obtain MBT Integrated Navigation System on Reserve",
+            "Hand over the navigation complex to Mechanic"
+        ],
+        "Yes",
+        [],
+        null,
+        "Mechanic",
+        [
+            198
+        ]
+    ],
+    [
+        "Back Door",
+        "\/wiki\/Back_Door",
+        "Discover",
+        [
+            "Find the unpowered secret exit on Reserve",
+            "Extract through that exit"
+        ],
+        "Yes",
+        [
+            "Surplus Goods"
+        ],
+        "14",
+        "Mechanic",
+        [
+            196
+        ]
+    ],
+    [
+        "Signal - Part 3",
+        "\/wiki\/Signal_-_Part_3",
+        "Completion",
+        [
+            "Place the first Signal Jammer on the specified place on Shoreline",
+            "Place the second Signal Jammer on the specified place on Shoreline",
+            "Place the third Signal Jammer on the specified place on Shoreline",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Signal - Part 4",
+            "The Door"
+        ],
+        "15",
+        "Mechanic",
+        [
+            195
+        ]
+    ],
+    [
+        "Signal - Part 4",
+        "\/wiki\/Signal_-_Part_4",
+        "Skill",
+        [
+            "Reach the required Memory skill level of 4"
+        ],
+        "Yes",
+        [
+            "Steady Signal"
+        ],
+        "15",
+        "Mechanic",
+        [
+            199
+        ]
+    ],
+    [
+        "Farming - Part 1",
+        "\/wiki\/Farming_-_Part_1",
+        "Completion",
+        [
+            "Fix the first control board with a Toolset on Factory",
+            "Fix the second control board with a Toolset on Factory",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Farming - Part 2"
+        ],
+        "12",
+        "Mechanic",
+        [
+            168
+        ]
+    ],
+    [
+        "Farming - Part 2",
+        "\/wiki\/Farming_-_Part_2",
+        "PickUp",
+        [
+            "Find 2 Power cords in raid",
+            "Hand over 2 Power cords to Mechanic",
+            "Find 4 T-Shaped Plugs in raid",
+            "Hand over 4 T-Shaped Plugs to Mechanic",
+            "Find 2 Printed circuit boards in raid",
+            "Hand over 2 Printed circuit boards to Mechanic"
+        ],
+        "Yes",
+        [
+            "Farming - Part 3",
+            "Bad Habit",
+            "Broadcast - Part 1"
+        ],
+        "12",
+        "Mechanic",
+        [
+            201
+        ]
+    ],
+    [
+        "Bad Habit",
+        "\/wiki\/Bad_Habit",
+        "PickUp",
+        [
+            "Find 5 Malboro cigarettes in raid",
+            "Hand over 5 Malboro cigarettes to Mechanic",
+            "Find 5 Strike cigarettes in raid",
+            "Hand over 5 Strike cigarettes to Mechanic",
+            "Find 5 Wilston cigarettes in raid",
+            "Hand over 5 Wilston cigarettes to Mechanic"
+        ],
+        "Yes",
+        [],
+        "12",
+        "Mechanic",
+        [
+            202
+        ]
+    ],
+    [
+        "Farming - Part 3",
+        "\/wiki\/Farming_-_Part_3",
+        "Completion",
+        [
+            "Find the warehouse of seized goods on Customs",
+            "Obtain the package of graphics cards",
+            "Hand over the package of graphics cards to Mechanic"
+        ],
+        "Yes",
+        [
+            "Farming - Part 4",
+            "Corporate Secrets",
+            "A Shooter Born in Heaven"
+        ],
+        "14",
+        "Mechanic",
+        [
+            202
+        ]
+    ],
+    [
+        "Farming - Part 4",
+        "\/wiki\/Farming_-_Part_4",
+        "PickUp",
+        [
+            "Find 3 Graphics cards in raid",
+            "Hand over 3 Graphics cards to Mechanic",
+            "Find 15 CPU fans in raid",
+            "Hand over 15 CPU fans to Mechanic"
+        ],
+        "Yes",
+        [
+            "Fertilizers",
+            "Import",
+            "Energy Crisis"
+        ],
+        "14",
+        "Mechanic",
+        [
+            204
+        ]
+    ],
+    [
+        "Psycho Sniper",
+        "\/wiki\/Psycho_Sniper",
+        "Skill",
+        [
+            "Reach the required Sniper Rifles skill level of 10",
+            "Eliminate 5 PMC operatives without dying while using a bolt-action rifle"
+        ],
+        "Yes",
+        [],
+        "35",
+        "Mechanic",
+        [
+            146
+        ]
+    ],
+    [
+        "A Shooter Born in Heaven",
+        "\/wiki\/A_Shooter_Born_in_Heaven",
+        "Elimination",
+        [
+            "Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Woods",
+            "Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Reserve",
+            "Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Shoreline",
+            "Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Customs",
+            "Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Lighthouse",
+            "Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Streets of Tarkov",
+            "Eliminate 5 PMC operatives with a headshot while using a bolt-action rifle on Interchange"
+        ],
+        "Yes",
+        [],
+        null,
+        "Mechanic",
+        [
+            204
+        ]
+    ],
+    [
+        "Fertilizers",
+        "\/wiki\/Fertilizers",
+        "PickUp",
+        [
+            "Find 5 Bundle of wires in raid",
+            "Find 5 Capacitors in raid",
+            "Hand over 5 Bundle of wires to Mechanic",
+            "Hand over 5 Capacitors to Mechanic"
+        ],
+        "Yes",
+        [],
+        "30",
+        "Mechanic",
+        [
+            205
+        ]
+    ],
+    [
+        "Import",
+        "\/wiki\/Import",
+        "PickUp",
+        [
+            "Find 1 UHF RFID Fixed Reader in raid",
+            "Find 1 VPX Flash Storage Module in raid",
+            "Hand over 1 UHF RFID Fixed Reader to Mechanic",
+            "Hand over 1 VPX Flash Storage Module to Mechanic"
+        ],
+        "Yes",
+        [],
+        "35",
+        "Mechanic",
+        [
+            205
+        ]
+    ],
+    [
+        "Chemistry Closet",
+        "\/wiki\/Chemistry_Closet",
+        "Completion",
+        [
+            "Locate Sanitar's office in the health resort",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "The Huntsman Path - Sadist",
+            "Colleagues - Part 3",
+            "Calibration"
+        ],
+        "22",
+        "Mechanic",
+        [
+            23,
+            71
+        ]
+    ],
+    [
+        "Calibration",
+        "\/wiki\/Calibration",
+        "Elimination",
+        [
+            "Eliminate 20 PMCs from at least 100m away"
+        ],
+        "No",
+        [
+            "The Courier"
+        ],
+        "47",
+        "Mechanic",
+        [
+            210
+        ]
+    ],
+    [
+        "The Courier",
+        "\/wiki\/The_Courier",
+        "Completion",
+        [
+            "Stash a Trijicon REAP-IR scope under the base of the yellow crane at the construction site on Customs",
+            "Stash a Trijicon REAP-IR scope behind the trash containers at the \"new\" gas station on Customs"
+        ],
+        "No",
+        [],
+        "52",
+        "Mechanic",
+        [
+            211
+        ]
+    ],
+    [
+        "Corporate Secrets",
+        "\/wiki\/Corporate_Secrets",
+        "Exploration",
+        [
+            "Find the data on water pump operation",
+            "Hand over the extracted data",
+            "Find the data on pumping station operation",
+            "Hand over the extracted data"
+        ],
+        "Yes",
+        [
+            "Surveillance"
+        ],
+        "17",
+        "Mechanic",
+        [
+            204
+        ]
+    ],
+    [
+        "Energy Crisis",
+        "\/wiki\/Energy_Crisis",
+        "Exploration",
+        [
+            "Find and mark the group of fuel tanks with an MS2000 Marker on Lighthouse",
+            "Find and mark the first tanker truck with an MS2000 Marker on Lighthouse",
+            "Find and mark the second tanker truck with an MS2000 Marker on Lighthouse",
+            "Find and mark the third tanker truck with an MS2000 Marker on Lighthouse"
+        ],
+        "Yes",
+        [],
+        "25",
+        "Mechanic",
+        [
+            205
+        ]
+    ],
+    [
+        "Broadcast - Part 1",
+        "\/wiki\/Broadcast_-_Part_1",
+        "Completion",
+        [
+            "Locate the hidden recording studio on Lighthouse",
+            "Place a Signal Jammer inside the studio"
+        ],
+        "Yes",
+        [
+            "Broadcast - Part 2"
+        ],
+        null,
+        "Mechanic",
+        [
+            202
+        ]
+    ],
+    [
+        "Broadcast - Part 2",
+        "\/wiki\/Broadcast_-_Part_2",
+        "Completion",
+        [
+            "Locate the place of bloody broadcast inside the grocery store on Streets of Tarkov",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [
+            "Broadcast - Part 3",
+            "Surveillance",
+            "Watching You"
+        ],
+        "15",
+        "Mechanic",
+        [
+            215
+        ]
+    ],
+    [
+        "Surveillance",
+        "\/wiki\/Surveillance",
+        "PickUp",
+        [
+            "Obtain the data on vehicle movement at the Concordia residential complex parking lot on Streets of Tarkov",
+            "Hand over the information"
+        ],
+        "No",
+        [
+            "Developer's Secrets - Part 1"
+        ],
+        "25",
+        "Mechanic",
+        [
+            213,
+            216
+        ]
+    ],
+    [
+        "Watching You",
+        "\/wiki\/Watching_You",
+        "PickUp",
+        [
+            "Locate the surveillance spot on Streets of Tarkov",
+            "Obtain the observation results"
+        ],
+        "No",
+        [],
+        "20",
+        "Mechanic",
+        [
+            216
+        ]
+    ],
+    [
+        "Network Provider - Part 1",
+        "\/wiki\/Network_Provider_-_Part_1",
+        "PickUp",
+        [
+            "Hand over the 4 found in raid Electronic components",
+            "Hand over the 4 found in raid Military COFDM Wireless Signal Transmitters",
+            "Hand over the 4 found in raid Gas analyzers",
+            "Hand over the 4 found in raid Broken GPhone smartphones"
+        ],
+        "No",
+        [
+            "Network Provider - Part 2"
+        ],
+        "2",
+        "Mechanic",
+        []
+    ],
+    [
+        "Network Provider - Part 2",
+        "\/wiki\/Network_Provider_-_Part_2",
+        "Discovery",
+        [
+            "Set up the retransmitter inside the MI-8 helicopter at the water treatment plant",
+            "Set up the retransmitter inside the abandoned USEC cottage",
+            "Set up the retransmitter at a high elevation overlooking the lighthouse",
+            "Set up the retransmitter on the roof of the sunken building at the shore"
+        ],
+        "No",
+        [
+            "Assessment - Part 1"
+        ],
+        "1",
+        "Mechanic",
+        [
+            219
+        ]
+    ],
+    [
+        "Assessment - Part 1",
+        "\/wiki\/Assessment_-_Part_1",
+        "Elimination",
+        [
+            "Eliminate 20 PMC operatives at the Lighthouse premises"
+        ],
+        "No",
+        [
+            "Assessment - Part 2"
+        ],
+        null,
+        "Mechanic",
+        [
+            220
+        ]
+    ],
+    [
+        "Assessment - Part 2",
+        "\/wiki\/Assessment_-_Part_2",
+        "Discovery",
+        [
+            "Locate and mark the first bunker with an MS2000 marker on Woods",
+            "Locate and mark the second bunker with an MS2000 marker on Woods",
+            "Locate and mark the third bunker with an MS2000 marker on Woods",
+            "Locate and mark the fourth bunker with an MS2000 marker on Woods"
+        ],
+        "No",
+        [
+            "Assessment - Part 3"
+        ],
+        null,
+        "Mechanic",
+        [
+            221
+        ]
+    ],
+    [
+        "Assessment - Part 3",
+        "\/wiki\/Assessment_-_Part_3",
+        "PickUp \/ Elimination",
+        [
+            "Eliminate 10 Raiders in The Lab",
+            "Hand over the 20 found in raid SJ1 TGLabs combat stimulant injector",
+            "Hand over the 8 found in raid SJ6 TGLabs combat stimulant injector",
+            "Hand over the 2 found in raid SJ9 TGLabs combat stimulant injector"
+        ],
+        "No",
+        [
+            "Key to the Tower"
+        ],
+        null,
+        "Mechanic",
+        [
+            222
+        ]
+    ],
+    [
+        "Key to the Tower",
+        "\/wiki\/Key_to_the_Tower",
+        "PickUp",
+        [
+            "Hand over the 2 found in raid Pieces of plexiglass",
+            "Hand over the found in raid Insulating tape",
+            "Hand over the 2 found in raid Military circuit boards",
+            "Hand over the found in raid Military COFDM Wireless Signal Transmitter",
+            "Hand over the found in raid Working LCD",
+            "Obtain the Radio transmitter body on Lighthouse",
+            "Hand over the Radio transmitter body"
+        ],
+        "No",
+        [
+            "Knock-Knock"
+        ],
+        "24",
+        "Mechanic",
+        [
+            223
+        ]
+    ],
+    [
+        "Knock-Knock",
+        "\/wiki\/Knock-Knock",
+        "Completion",
+        [
+            "Check if the radio transmitter works near the Lighthouse peninsula",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [
+            "Getting Acquainted"
+        ],
+        "24",
+        "Mechanic",
+        [
+            224
+        ]
+    ],
+    [
+        "Getting Acquainted",
+        "\/wiki\/Getting_Acquainted",
+        "PickUp",
+        [
+            "Obtain the V3 Flash drive on Lighthouse",
+            "Reflash the Radio transmitter",
+            "Hand over the flash drive",
+            "Visit the lighthouse building"
+        ],
+        "No",
+        [
+            "Information Source",
+            "Top Secret"
+        ],
+        null,
+        "Mechanic",
+        [
+            225
+        ]
+    ],
+    [
+        "Make Amends - Buyout",
+        "\/wiki\/Make_Amends_-_Buyout",
+        "Loyalty",
+        [
+            "Hand over 1,000,000 RUB"
+        ],
+        "No",
+        [
+            "Make Amends - Equipment"
+        ],
+        null,
+        "Mechanic",
+        []
+    ],
+    [
+        "Make Amends - Equipment",
+        "\/wiki\/Make_Amends_-_Equipment",
+        "PickUp",
+        [
+            "Hand over the 4 found in raid SVDS sniper rifles"
+        ],
+        "No",
+        [
+            "Make Amends"
+        ],
+        null,
+        "Mechanic",
+        [
+            227
+        ]
+    ],
+    [
+        "Make Amends",
+        "\/wiki\/Make_Amends",
+        "PickUp",
+        [
+            "Obtain the V3 Flash drive on Lighthouse",
+            "Reflash the Radio transmitter",
+            "Hand over the flash drive",
+            "Visit the lighthouse building"
+        ],
+        "No",
+        [],
+        null,
+        "Mechanic",
+        [
+            228
+        ]
+    ],
+    [
+        "The Door",
+        "\/wiki\/The_Door",
+        "Completion",
+        [
+            "Locate the cause of the signal jamming on Streets of Tarkov",
+            "Install a WI-FI Camera to watch the door",
+            "Install a WI-FI Camera to watch the stairwell",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [],
+        "2",
+        "Mechanic",
+        [
+            199
+        ]
+    ],
+    [
+        "Steady Signal",
+        "\/wiki\/Steady_Signal",
+        "Completion",
+        [
+            "Mark the first weather station with an MS2000 Marker on Woods",
+            "Mark the second weather station with an MS2000 Marker on Woods",
+            "Mark the third weather station with an MS2000 Marker on Woods",
+            "Mark the fourth weather station with an MS2000 Marker on Woods",
+            "Mark the fifth weather station with an MS2000 Marker on Woods"
+        ],
+        "No",
+        [],
+        null,
+        "Mechanic",
+        [
+            200
+        ]
+    ],
+    [
+        "Developer's Secrets - Part 1",
+        "\/wiki\/Developer%27s_Secrets_-_Part_1",
+        "Exploration",
+        [
+            "Locate the IT firm office on Streets of Tarkov",
+            "Unravel the secret of the firm's success",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [
+            "Developer's Secrets - Part 2"
+        ],
+        "23",
+        "Mechanic",
+        [
+            217
+        ]
+    ],
+    [
+        "Developer's Secrets - Part 2",
+        "\/wiki\/Developer%27s_Secrets_-_Part_2",
+        "Exploration",
+        [
+            "Unravel the secret of the IT firm's employees' high morale on Streets of Tarkov",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [],
+        null,
+        "Mechanic",
+        [
+            232
+        ]
+    ],
+    [
+        "Only Business",
+        "\/wiki\/Only_Business",
+        "Merchant",
+        [
+            "Obtain level 2 loyalty with Ragman"
+        ],
+        "Yes",
+        [
+            "Make ULTRA Great Again",
+            "Big Sale",
+            "Audit"
+        ],
+        "15",
+        "Ragman",
+        []
+    ],
+    [
+        "Make ULTRA Great Again",
+        "\/wiki\/Make_ULTRA_Great_Again",
+        "Completion",
+        [
+            "Eliminate 25 Scavs on Interchange"
+        ],
+        "Yes",
+        [
+            "The Blood of War - Part 1",
+            "Database - Part 1"
+        ],
+        null,
+        "Ragman",
+        [
+            234
+        ]
+    ],
+    [
+        "Big Sale",
+        "\/wiki\/Big_Sale",
+        "Exploration",
+        [
+            "Locate and check the AVOKADO store on Interchange",
+            "Locate and check the KOSTIN store on Interchange",
+            "Locate and check the tRend store on Interchange",
+            "Locate and check the DINO CLOTHES store on Interchange",
+            "Locate and check the TOP BRAND store on Interchange",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "The Blood of War - Part 1",
+            "Database - Part 1",
+            "Nothing Fishy About This"
+        ],
+        null,
+        "Ragman",
+        [
+            234
+        ]
+    ],
+    [
+        "A Fuel Matter",
+        "\/wiki\/A_Fuel_Matter",
+        "Completion",
+        [
+            "Mark the first group of fuel tanks with an MS2000 Marker on Reserve",
+            "Mark the second group of fuel tanks with an MS2000 Marker on Reserve",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Inventory Check"
+        ],
+        "15",
+        "Ragman",
+        [
+            239
+        ]
+    ],
+    [
+        "Inventory Check",
+        "\/wiki\/Inventory_Check",
+        "Completion",
+        [
+            "Check the first arsenal in the western barracks on Reserve",
+            "Check the duty room in the western barracks on Reserve",
+            "Check the second arsenal in the western barracks on Reserve",
+            "Check the first arsenal in the northern barracks on Reserve",
+            "Check the second second arsenal in the northern barracks on Reserve",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [],
+        "15",
+        "Ragman",
+        [
+            237
+        ]
+    ],
+    [
+        "The Blood of War - Part 1",
+        "\/wiki\/The_Blood_of_War_-_Part_1",
+        "Completion",
+        [
+            "Mark the first fuel tank with an MS2000 Marker on Interchange",
+            "Mark the second fuel tank with an MS2000 Marker on Interchange",
+            "Mark the third fuel tank with an MS2000 Marker on Interchange",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "The Blood of War - Part 2",
+            "Charisma Brings Success",
+            "Living High is Not a Crime - Part 1",
+            "A Fuel Matter",
+            "Dressed to Kill"
+        ],
+        null,
+        "Ragman",
+        [
+            235,
+            236
+        ]
+    ],
+    [
+        "Dressed to Kill",
+        "\/wiki\/Dressed_to_Kill",
+        "Completion",
+        [
+            "Find 2 Kinda Cowboy hats in raid",
+            "Find 2 Ushanka ear-flap caps in raid",
+            "Hand over 2 Ushanka ear-flap caps to Ragman",
+            "Hand over 2 Kinda Cowboy hats to Ragman"
+        ],
+        "Yes",
+        [
+            "Gratitude"
+        ],
+        null,
+        "Ragman",
+        [
+            239
+        ]
+    ],
+    [
+        "Gratitude",
+        "\/wiki\/Gratitude",
+        "Completion",
+        [
+            "Stash 1 Ghost balaclava in the specified place on Woods",
+            "Stash 1 Shemagh (Green) in the specified place on Woods",
+            "Stash 1 RayBench Hipster Reserve sunglasses in the specified place on Woods",
+            "Stash 1 Round frame sunglasses in the specified place on Woods"
+        ],
+        "Yes",
+        [
+            "Sales Night",
+            "Hot Delivery"
+        ],
+        null,
+        "Ragman",
+        [
+            240,
+            246
+        ]
+    ],
+    [
+        "Hot Delivery",
+        "\/wiki\/Hot_Delivery",
+        "Completion",
+        [
+            "Stash 2 Peltor ComTac 2s in the specified place on Interchange",
+            "Stash 2 6B47 Helmets in the specified place on Interchange",
+            "Stash 2 BNTI Gzhel-K armors in the specified place on Interchange"
+        ],
+        "Yes",
+        [
+            "Scavenger"
+        ],
+        "29",
+        "Ragman",
+        [
+            241
+        ]
+    ],
+    [
+        "Scavenger",
+        "\/wiki\/Scavenger",
+        "Skill",
+        [
+            "Reach the required Search skill level of 9"
+        ],
+        "Yes",
+        [],
+        "29",
+        "Ragman",
+        [
+            242
+        ]
+    ],
+    [
+        "Sales Night",
+        "\/wiki\/Sales_Night",
+        "Completion",
+        [
+            "Survive and extract on Interchange 7 times"
+        ],
+        "Yes",
+        [
+            "Supervisor",
+            "The Huntsman Path - Sellout"
+        ],
+        "30",
+        "Ragman",
+        [
+            241
+        ]
+    ],
+    [
+        "Database - Part 1",
+        "\/wiki\/Database_-_Part_1",
+        "Exploration",
+        [
+            "Obtain the Goshan cargo manifests on Interchange",
+            "Hand over the Goshan cargo manifests to Ragman",
+            "Obtain the OLI cargo manifests on Interchange",
+            "Hand over the OLI cargo manifests to Ragman",
+            "Obtain the IDEA cargo manifests on Interchange",
+            "Hand over the IDEA cargo manifests to Ragman"
+        ],
+        "Yes",
+        [
+            "Database - Part 2"
+        ],
+        null,
+        "Ragman",
+        [
+            235,
+            236
+        ]
+    ],
+    [
+        "Database - Part 2",
+        "\/wiki\/Database_-_Part_2",
+        "Completion",
+        [
+            "Obtain the OLI cargo route documents on Interchange",
+            "Hand over the documents to Ragman"
+        ],
+        "Yes",
+        [
+            "Sew it Good - Part 1",
+            "Minibus",
+            "Gratitude"
+        ],
+        null,
+        "Ragman",
+        [
+            245
+        ]
+    ],
+    [
+        "Minibus",
+        "\/wiki\/Minibus",
+        "Completion",
+        [
+            "Find an mark the first minibus with an MS2000 Marker on Interchange",
+            "Find an mark the second minibus with an MS2000 Marker on Interchange",
+            "Find an mark the third minibus with an MS2000 Marker on Interchange",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Audiophile"
+        ],
+        "24",
+        "Ragman",
+        [
+            246
+        ]
+    ],
+    [
+        "Sew it Good - Part 1",
+        "\/wiki\/Sew_it_Good_-_Part_1",
+        "PickUp",
+        [
+            "Find 1 Ski hat with holes for eyes in raid",
+            "Hand over 1 Ski hat with holes for eyes to Ragman",
+            "Find 1 Pilgrim tourist backpack in raid",
+            "Hand over 1 Pilgrim tourist backpack to Ragman"
+        ],
+        "Yes",
+        [
+            "Sew it Good - Part 2",
+            "The Blood of War - Part 2"
+        ],
+        "25",
+        "Ragman",
+        [
+            246
+        ]
+    ],
+    [
+        "The Blood of War - Part 2",
+        "\/wiki\/The_Blood_of_War_-_Part_2",
+        "PickUp",
+        [
+            "Find 4 Fuel conditioners in raid",
+            "Hand over 4 Fuel conditioners to Ragman"
+        ],
+        "Yes",
+        [
+            "The Blood of War - Part 3"
+        ],
+        "23",
+        "Ragman",
+        [
+            239,
+            248
+        ]
+    ],
+    [
+        "The Blood of War - Part 3",
+        "\/wiki\/The_Blood_of_War_-_Part_3",
+        "Completion",
+        [
+            "Find and mark the first fuel stash with an MS2000 Marker on Woods",
+            "Find and mark the second fuel stash with an MS2000 Marker on Woods",
+            "Find and mark the third fuel stash with an MS2000 Marker on Woods",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Living High is Not a Crime - Part 2"
+        ],
+        "30",
+        "Ragman",
+        [
+            249
+        ]
+    ],
+    [
+        "Sew it Good - Part 2",
+        "\/wiki\/Sew_it_Good_-_Part_2",
+        "PickUp",
+        [
+            "Obtain 2 BNTI Gzhel-K body armors in any condition",
+            "Hand over the 2 BNTI Gzhel-K body armors to Ragman"
+        ],
+        "Yes",
+        [
+            "Sew it Good - Part 3",
+            "The Key to Success"
+        ],
+        null,
+        "Ragman",
+        [
+            248
+        ]
+    ],
+    [
+        "The Key to Success",
+        "\/wiki\/The_Key_to_Success",
+        "PickUp",
+        [
+            "Obtain the Clothes design handbook - Part 1 on Interchange",
+            "Hand over the Clothes design handbook - Part 1 to Ragman",
+            "Obtain the Clothes design handbook - Part 2 on Interchange",
+            "Hand over the Clothes design handbook - Part 2 to Ragman"
+        ],
+        "Yes",
+        [
+            "No Fuss Needed",
+            "Supervisor",
+            "The Stylish One"
+        ],
+        "26",
+        "Ragman",
+        [
+            251
+        ]
+    ],
+    [
+        "No Fuss Needed",
+        "\/wiki\/No_Fuss_Needed",
+        "Standing",
+        [
+            "Reach level 3 loyalty with Therapist"
+        ],
+        "Yes",
+        [],
+        null,
+        "Ragman",
+        [
+            252
+        ]
+    ],
+    [
+        "The Stylish One",
+        "\/wiki\/The_Stylish_One",
+        "Elimination",
+        [
+            "Eliminate Killa 50 times"
+        ],
+        "No",
+        [],
+        null,
+        "Ragman",
+        [
+            252,
+            293
+        ]
+    ],
+    [
+        "Supervisor",
+        "\/wiki\/Supervisor",
+        "PickUp",
+        [
+            "Obtain the Goshan cash register key",
+            "Hand over the Goshan cash register key to Ragman"
+        ],
+        "Yes",
+        [
+            "Long Line"
+        ],
+        "40",
+        "Ragman",
+        [
+            244,
+            252
+        ]
+    ],
+    [
+        "Sew it Good - Part 3",
+        "\/wiki\/Sew_it_Good_-_Part_3",
+        "PickUp",
+        [
+            "Obtain 2 6B13 assault armors in any condition in raid",
+            "Hand over the 2 6B13 assault armors to Ragman"
+        ],
+        "Yes",
+        [
+            "Sew it Good - Part 4",
+            "Living High is Not a Crime - Part 1"
+        ],
+        null,
+        "Ragman",
+        [
+            251
+        ]
+    ],
+    [
+        "Living High is Not a Crime - Part 1",
+        "\/wiki\/Living_High_is_Not_a_Crime_-_Part_1",
+        "PickUp",
+        [
+            "Find 2 Bronze lion figurines in raid",
+            "Hand over Bronze lion figurines to Ragman",
+            "Find 2 Horse figurines in raid",
+            "Hand over 2 Horse figurines to Ragman",
+            "Find 1 Cat figurine in raid",
+            "Hand over 1 Cat figurine to Ragman",
+            "Find 1 Roler Submariner gold wrist watch in raid",
+            "Hand over 1 Roler Submariner gold wrist watch to Ragman",
+            "Find Golden egg in raid",
+            "Hand over the Golden egg to Ragman"
+        ],
+        "Yes",
+        [
+            "Living High is Not a Crime - Part 2"
+        ],
+        "27",
+        "Ragman",
+        [
+            239,
+            256
+        ]
+    ],
+    [
+        "Living High is Not a Crime - Part 2",
+        "\/wiki\/Living_High_is_Not_a_Crime_-_Part_2",
+        "PickUp",
+        [
+            "Find 3 Antique teapots in raid",
+            "Find 2 Antique vases in raid",
+            "Find Axel parrot figurine in raid",
+            "Find 2 Raven figurines in raid",
+            "Hand over 3 Antique teapots to Ragman",
+            "Hand over 2 Antique vases to Ragman",
+            "Hand over the Axel parrot figurine",
+            "Hand over the 2 Raven figurines"
+        ],
+        "Yes",
+        [],
+        null,
+        "Ragman",
+        [
+            250,
+            257
+        ]
+    ],
+    [
+        "Sew it Good - Part 4",
+        "\/wiki\/Sew_it_Good_-_Part_4",
+        "PickUp",
+        [
+            "Find 2 WARTECH TV-109 + TV-106 chest rigs in raid",
+            "Hand over the chest rigs",
+            "Find 2 BlackRock chest rigs in raid",
+            "Hand over the chest rigs"
+        ],
+        "Yes",
+        [
+            "Textile - Part 1",
+            "Charisma Brings Success"
+        ],
+        null,
+        "Ragman",
+        [
+            256
+        ]
+    ],
+    [
+        "Charisma Brings Success",
+        "\/wiki\/Charisma_Brings_Success",
+        "Skill",
+        [
+            "Reach the required Charisma skill level of 10"
+        ],
+        "Yes",
+        [],
+        null,
+        "Ragman",
+        [
+            239,
+            259
+        ]
+    ],
+    [
+        "Textile - Part 1",
+        "\/wiki\/Textile_-_Part_1",
+        "Pickup",
+        [
+            "Find 5 Aramid fabrics in raid",
+            "Hand over 5 Aramid fabrics to Ragman",
+            "Find 10 Ripstop fabrics in raid",
+            "Hand over 10 Ripstop fabrics to Ragman",
+            "Find 3 Paracords in raid",
+            "Hand over 3 Paracords to Ragman"
+        ],
+        "No",
+        [
+            "Textile - Part 2"
+        ],
+        null,
+        "Ragman",
+        [
+            259
+        ]
+    ],
+    [
+        "Textile - Part 2",
+        "\/wiki\/Textile_-_Part_2",
+        "Pickup",
+        [
+            "Find 10 Fleece fabrics in raid",
+            "Hand over 10 Fleece fabrics to Ragman",
+            "Find 10 Cordura polyamide fabrics in raid",
+            "Hand over 10 Cordura polyamide fabrics to Ragman",
+            "Find 5 KEKTAPE duct tapes in raid",
+            "Hand over 5 KEKTAPE duct tapes to Ragman"
+        ],
+        "No",
+        [],
+        null,
+        "Ragman",
+        [
+            261
+        ]
+    ],
+    [
+        "Long Line",
+        "\/wiki\/Long_Line",
+        "Elimination",
+        [
+            "Eliminate 30 PMCs inside the ULTRA mall on Interchange"
+        ],
+        "No",
+        [
+            "Booze"
+        ],
+        "45",
+        "Ragman",
+        [
+            255
+        ]
+    ],
+    [
+        "Booze",
+        "\/wiki\/Booze",
+        "Pickup",
+        [
+            "Find 10 Bottles of Tarkovskaya vodka in raid",
+            "Find 10 Bottles of Dan Jackiel whiskey in raid",
+            "Find 3 Canister with purified water in raid",
+            "Find 20 Bottles of Pevko Light beer in raid",
+            "Hand over 10 Bottles of Tarkovskaya vodka to Ragman",
+            "Hand over 10 Bottles of Dan Jackiel whiskey to Ragman",
+            "Hand over 3 Canister with purified water to Ragman",
+            "Hand over 20 Bottles of Pevko Light beer to Ragman"
+        ],
+        "No",
+        [],
+        "50",
+        "Ragman",
+        [
+            263
+        ]
+    ],
+    [
+        "Audit",
+        "\/wiki\/Audit",
+        "PickUp",
+        [
+            "Obtain the financial records on Streets of Tarkov",
+            "Hand over the journal"
+        ],
+        "No",
+        [
+            "Ballet Lover"
+        ],
+        "17",
+        "Ragman",
+        [
+            234
+        ]
+    ],
+    [
+        "Ballet Lover",
+        "\/wiki\/Ballet_Lover",
+        "Completion",
+        [
+            "Locate the balletmeister's apartment on Streets of Tarkov",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [
+            "Audiophile",
+            "Dandies"
+        ],
+        "20",
+        "Ragman",
+        [
+            265
+        ]
+    ],
+    [
+        "Audiophile",
+        "\/wiki\/Audiophile",
+        "PickUp",
+        [
+            "Locate the musician gathering spot on Streets of Tarkov",
+            "Obtain the engraved guitar pick",
+            "Hand over the guitar pick"
+        ],
+        "No",
+        [],
+        "25",
+        "Ragman",
+        [
+            247,
+            266
+        ]
+    ],
+    [
+        "Overseas Trust - Part 2",
+        "\/wiki\/Overseas_Trust_-_Part_2",
+        "Merchant",
+        [
+            "Hand over 50,000 USD"
+        ],
+        "No",
+        [],
+        null,
+        "Ragman",
+        [
+            341
+        ]
+    ],
+    [
+        "Dandies",
+        "\/wiki\/Dandies",
+        "Elimination",
+        [
+            "Eliminate any 30 enemies while wearing a Bomber beanie and RayBench Hipster Reserve sunglasses on Streets of Tarkov",
+            "Stash a Bomber beanie inside the barber shop on Streets of Tarkov",
+            "Stash RayBench Hipster Reserve sunglasses inside the barber shop on Streets of Tarkov"
+        ],
+        "No",
+        [],
+        "33",
+        "Ragman",
+        [
+            266
+        ]
+    ],
+    [
+        "Nothing Fishy About This",
+        "\/wiki\/Nothing_Fishy_About_This",
+        "Exploration",
+        [
+            "Locate Ragman's SUV on Shoreline",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [],
+        null,
+        "Ragman",
+        [
+            236
+        ]
+    ],
+    [
+        "Acquaintance",
+        "\/wiki\/Acquaintance",
+        "Completion",
+        [
+            "Find 3 Iskra ration packs in raid",
+            "Find 2 Packs of instant noodles in raid",
+            "Find 2 Cans of beef stew (Large) in raid",
+            "Hand over the 3 in raid Iskra ration packs",
+            "Hand over the 2 in raid Packs of instant noodles",
+            "Hand over the 2 in raid Cans of beef stew (Large)"
+        ],
+        "Yes",
+        [
+            "The Survivalist Path - Unprotected but Dangerous",
+            "Shady Business",
+            "The Tarkov Shooter - Part 1"
+        ],
+        null,
+        "Jaeger",
+        [
+            167
+        ]
+    ],
+    [
+        "The Survivalist Path - Unprotected but Dangerous",
+        "\/wiki\/The_Survivalist_Path_-_Unprotected_but_Dangerous",
+        "Completion",
+        [
+            "Eliminate 5 Scavs without wearing any body armor on Woods"
+        ],
+        "Yes",
+        [
+            "The Survivalist Path - Thrifty"
+        ],
+        null,
+        "Jaeger",
+        [
+            271
+        ]
+    ],
+    [
+        "The Survivalist Path - Thrifty",
+        "\/wiki\/The_Survivalist_Path_-_Thrifty",
+        "Completion",
+        [
+            "Stash 1 Iskra ration pack in the ZB-016 bunker on Woods",
+            "Stash 1 Bottle of water in the ZB-016 bunker on Woods",
+            "Stash 1 Iskra ration pack in the ZB-014 bunker on Woods",
+            "Stash 1 Bottle of water in the ZB-014 bunker on Woods"
+        ],
+        "Yes",
+        [
+            "The Survivalist Path - Zhivchik",
+            "The Delicious Sausage"
+        ],
+        null,
+        "Jaeger",
+        [
+            272
+        ]
+    ],
+    [
+        "The Survivalist Path - Zhivchik",
+        "\/wiki\/The_Survivalist_Path_-_Zhivchik",
+        "Completion",
+        [
+            "Survive for 5 minutes while suffering from complete dehydration (Excluding Factory)",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "The Survivalist Path - Wounded Beast"
+        ],
+        null,
+        "Jaeger",
+        [
+            273
+        ]
+    ],
+    [
+        "The Survivalist Path - Wounded Beast",
+        "\/wiki\/The_Survivalist_Path_-_Wounded_Beast",
+        "Completion",
+        [
+            "Eliminate 3 Scavs while suffering from pain effect"
+        ],
+        "Yes",
+        [
+            "The Survivalist Path - Tough Guy",
+            "The Survivalist Path - Cold Blooded"
+        ],
+        null,
+        "Jaeger",
+        [
+            274
+        ]
+    ],
+    [
+        "The Survivalist Path - Tough Guy",
+        "\/wiki\/The_Survivalist_Path_-_Tough_Guy",
+        "Completion",
+        [
+            "Eliminate 3 Scavs on Woods in a single raid without using any medicine"
+        ],
+        "Yes",
+        [
+            "Courtesy Visit",
+            "The Hermit",
+            "The Survivalist Path - Eagle-Owl",
+            "The Huntsman Path - Secured Perimeter"
+        ],
+        null,
+        "Jaeger",
+        [
+            275
+        ]
+    ],
+    [
+        "Courtesy Visit",
+        "\/wiki\/Courtesy_Visit",
+        "Completion",
+        [
+            "Find the chairman's house in the abandoned village on Shoreline",
+            "Find the fisherman's house in the abandoned village on Shoreline",
+            "Find the priest's house in the abandoned village on Shoreline",
+            "Survive and extract from Shoreline with the \"Survived\" exit status"
+        ],
+        "Yes",
+        [
+            "Nostalgia"
+        ],
+        "20",
+        "Jaeger",
+        [
+            276
+        ]
+    ],
+    [
+        "Nostalgia",
+        "\/wiki\/Nostalgia",
+        "Completion",
+        [
+            "Locate Jaeger's Health Resort room with a view of the bay on Shoreline",
+            "Obtain Jaeger's Photo album",
+            "Hand over the Photo album to Jaeger"
+        ],
+        "Yes",
+        [
+            "Fishing Place"
+        ],
+        "28",
+        "Jaeger",
+        [
+            277
+        ]
+    ],
+    [
+        "The Survivalist Path - Cold Blooded",
+        "\/wiki\/The_Survivalist_Path_-_Cold_Blooded",
+        "Completion",
+        [
+            "Eliminate 2 PMCs with headshots while suffering from tremor effect"
+        ],
+        "No",
+        [],
+        null,
+        "Jaeger",
+        [
+            275
+        ]
+    ],
+    [
+        "The Survivalist Path - Junkie",
+        "\/wiki\/The_Survivalist_Path_-_Junkie",
+        "Elimination",
+        [
+            "Eliminate 15 Scavs on Woods while under any stimulant effect"
+        ],
+        "Yes",
+        [],
+        null,
+        "Jaeger",
+        [
+            282
+        ]
+    ],
+    [
+        "The Survivalist Path - Eagle-Owl",
+        "\/wiki\/The_Survivalist_Path_-_Eagle-Owl",
+        "Completion",
+        [
+            "Eliminate 6 Scavs in the time period of 21:00-04:00 without using any NVGs or thermal sights (Excluding Factory)"
+        ],
+        "Yes",
+        [
+            "The Survivalist Path - Combat Medic"
+        ],
+        null,
+        "Jaeger",
+        [
+            276
+        ]
+    ],
+    [
+        "The Survivalist Path - Combat Medic",
+        "\/wiki\/The_Survivalist_Path_-_Combat_Medic",
+        "Completion",
+        [
+            "Reach the required Vitality skill level of 5"
+        ],
+        "Yes",
+        [
+            "The Survivalist Path - Junkie"
+        ],
+        null,
+        "Jaeger",
+        [
+            281
+        ]
+    ],
+    [
+        "Ambulance",
+        "\/wiki\/Ambulance",
+        "Completion",
+        [
+            "Hand over 1 Portable defibrillator to Jaeger",
+            "Find 2 CMS surgery kits in raid",
+            "Find 1 Portable defibrillator in raid",
+            "Hand over 2 CMS surgery kits to Jaeger"
+        ],
+        "Yes",
+        [],
+        "25",
+        "Jaeger",
+        [
+            307
+        ]
+    ],
+    [
+        "The Huntsman Path - Secured Perimeter",
+        "\/wiki\/The_Huntsman_Path_-_Secured_Perimeter",
+        "Completion",
+        [
+            "Eliminate 6 PM\u0421s on Factory in the office area (any floor)"
+        ],
+        "Yes",
+        [
+            "The Huntsman Path - Trophy",
+            "The Huntsman Path - Justice",
+            "The Huntsman Path - Woods Keeper",
+            "The Huntsman Path - Forest Cleaning",
+            "The Huntsman Path - Eraser - Part 2"
+        ],
+        null,
+        "Jaeger",
+        [
+            276,
+            301
+        ]
+    ],
+    [
+        "The Huntsman Path - Crooked Cop",
+        "\/wiki\/The_Huntsman_Path_-_Crooked_Cop",
+        "Elimination",
+        [
+            "Locate and eliminate Kollontay on Streets of Tarkov",
+            "Eliminate Kollontay's guards on Streets of Tarkov",
+            "Hand over the found in raid Kollontay's police baton"
+        ],
+        "No",
+        [],
+        null,
+        "Jaeger",
+        [
+            321
+        ]
+    ],
+    [
+        "Reserve",
+        "\/wiki\/Reserve_(quest)",
+        "Completion",
+        [
+            "Find the food storage location on Reserve",
+            "Survive and extract from the location"
+        ],
+        "Yes",
+        [
+            "Pest Control"
+        ],
+        "20",
+        "Jaeger",
+        []
+    ],
+    [
+        "The Huntsman Path - Forest Cleaning",
+        "\/wiki\/The_Huntsman_Path_-_Forest_Cleaning",
+        "Completion",
+        [
+            "Eliminate 30 Scavs all over the Tarkov territory"
+        ],
+        "Yes",
+        [
+            "The Huntsman Path - Controller",
+            "The Huntsman Path - Factory Chief",
+            "The Huntsman Path - Evil Watchman",
+            "The Huntsman Path - Outcasts",
+            "The Huntsman Path - Administrator",
+            "The Huntsman Path - Sellout",
+            "The Huntsman Path - Big Game",
+            "Trophies"
+        ],
+        null,
+        "Jaeger",
+        [
+            284
+        ]
+    ],
+    [
+        "The Huntsman Path - Controller",
+        "\/wiki\/The_Huntsman_Path_-_Controller",
+        "Completion",
+        [
+            "Eliminate 2 PMCs while they are suffering from the stun effect"
+        ],
+        "Yes",
+        [],
+        null,
+        "Jaeger",
+        [
+            287
+        ]
+    ],
+    [
+        "The Huntsman Path - Evil Watchman",
+        "\/wiki\/The_Huntsman_Path_-_Evil_Watchman",
+        "Completion",
+        [
+            "Eliminate 5 PMCs in the Dorms area on Customs"
+        ],
+        "Yes",
+        [],
+        null,
+        "Jaeger",
+        [
+            287
+        ]
+    ],
+    [
+        "Fishing Place",
+        "\/wiki\/Fishing_Place",
+        "Completion",
+        [
+            "Find 2 TerraGroup Labs access keycards in raid",
+            "Hand over 2 TerraGroup Labs access keycards to Jaeger"
+        ],
+        "Yes",
+        [],
+        "25",
+        "Jaeger",
+        [
+            278
+        ]
+    ],
+    [
+        "The Huntsman Path - Trophy",
+        "\/wiki\/The_Huntsman_Path_-_Trophy",
+        "Completion",
+        [
+            "Eliminate Reshala",
+            "Find 1 Reshala's Golden TT in raid",
+            "Hand over 1 Reshala's Golden TT to Jaeger"
+        ],
+        "Yes",
+        [
+            "Stray Dogs"
+        ],
+        null,
+        "Jaeger",
+        [
+            284
+        ]
+    ],
+    [
+        "The Huntsman Path - Justice",
+        "\/wiki\/The_Huntsman_Path_-_Justice",
+        "Completion",
+        [
+            "Eliminate 3 Scavs dressed in police uniform (Reshala's bodyguards)"
+        ],
+        "Yes",
+        [],
+        null,
+        "Jaeger",
+        [
+            284
+        ]
+    ],
+    [
+        "The Huntsman Path - Sellout",
+        "\/wiki\/The_Huntsman_Path_-_Sellout",
+        "Elimination",
+        [
+            "Eliminate Killa",
+            "Find 1 Killa's helmet in raid",
+            "Hand over 1 Killa's helmet to Jaeger"
+        ],
+        "Yes",
+        [
+            "The Stylish One",
+            "Stray Dogs"
+        ],
+        null,
+        "Jaeger",
+        [
+            244,
+            287
+        ]
+    ],
+    [
+        "The Huntsman Path - Woods Keeper",
+        "\/wiki\/The_Huntsman_Path_-_Woods_Keeper",
+        "Completion",
+        [
+            "Eliminate Shturman",
+            "Find 1 Shturman's stash key in raid",
+            "Hand over 1 Shturman's stash key to Jaeger"
+        ],
+        "Yes",
+        [
+            "Hunting Trip",
+            "Stray Dogs",
+            "Hunter"
+        ],
+        null,
+        "Jaeger",
+        [
+            60,
+            109,
+            284
+        ]
+    ],
+    [
+        "Hunting Trip",
+        "\/wiki\/Hunting_Trip",
+        "Completion",
+        [
+            "Eliminate Shturman with a headshot from over 75 meters away while using an M700 Sniper rifle with the specified scope"
+        ],
+        "Yes",
+        [],
+        "33",
+        "Jaeger",
+        [
+            294
+        ]
+    ],
+    [
+        "The Huntsman Path - Factory Chief",
+        "\/wiki\/The_Huntsman_Path_-_Factory_Chief",
+        "Completion",
+        [
+            "Eliminate Tagilla",
+            "Find 1 BOSS cap in raid",
+            "Hand over 1 BOSS cap to Jaeger"
+        ],
+        "Yes",
+        [],
+        null,
+        "Jaeger",
+        [
+            196,
+            287
+        ]
+    ],
+    [
+        "The Huntsman Path - Eraser - Part 1",
+        "\/wiki\/The_Huntsman_Path_-_Eraser_-_Part_1",
+        "Completion",
+        [
+            "Eliminate Glukhar"
+        ],
+        "Yes",
+        [
+            "The Huntsman Path - Eraser - Part 2"
+        ],
+        null,
+        "Jaeger",
+        [
+            310
+        ]
+    ],
+    [
+        "The Huntsman Path - Eraser - Part 2",
+        "\/wiki\/The_Huntsman_Path_-_Eraser_-_Part_2",
+        "Completion",
+        [
+            "Eliminate 6 raiders"
+        ],
+        "Yes",
+        [],
+        null,
+        "Jaeger",
+        [
+            284,
+            297
+        ]
+    ],
+    [
+        "The Tarkov Shooter - Part 1",
+        "\/wiki\/The_Tarkov_Shooter_-_Part_1",
+        "Elimination",
+        [
+            "Eliminate 5 Scavs while using a bolt-action rifle with iron sights from at least 40 meters away"
+        ],
+        "Yes",
+        [
+            "The Tarkov Shooter - Part 2"
+        ],
+        null,
+        "Jaeger",
+        [
+            271
+        ]
+    ],
+    [
+        "The Tarkov Shooter - Part 2",
+        "\/wiki\/The_Tarkov_Shooter_-_Part_2",
+        "Elimination",
+        [
+            "Make 3 leg hits while using a bolt-action rifle from at least 40 meters away",
+            "Make 2 headshots while using a bolt-action rifle from at least 40 meters away"
+        ],
+        "Yes",
+        [
+            "The Tarkov Shooter - Part 3"
+        ],
+        null,
+        "Jaeger",
+        [
+            299
+        ]
+    ],
+    [
+        "The Tarkov Shooter - Part 3",
+        "\/wiki\/The_Tarkov_Shooter_-_Part_3",
+        "Elimination",
+        [
+            "Eliminate 3 PMCs while using a bolt-action rifle at close range (less than 25 meters away)"
+        ],
+        "Yes",
+        [
+            "The Tarkov Shooter - Part 4",
+            "The Huntsman Path - Secured Perimeter"
+        ],
+        null,
+        "Jaeger",
+        [
+            300
+        ]
+    ],
+    [
+        "The Tarkov Shooter - Part 4",
+        "\/wiki\/The_Tarkov_Shooter_-_Part_4",
+        "Elimination",
+        [
+            "Eliminate 5 PMC operatives from over 80 meters away while using a bolt-action rifle"
+        ],
+        "Yes",
+        [
+            "The Tarkov Shooter - Part 5"
+        ],
+        null,
+        "Jaeger",
+        [
+            301
+        ]
+    ],
+    [
+        "The Tarkov Shooter - Part 5",
+        "\/wiki\/The_Tarkov_Shooter_-_Part_5",
+        "Elimination",
+        [
+            "Eliminate 8 Scavs on Customs while using a bolt-action rifle in the time period of 21:00-5:00"
+        ],
+        "Yes",
+        [
+            "The Tarkov Shooter - Part 6"
+        ],
+        null,
+        "Jaeger",
+        [
+            302
+        ]
+    ],
+    [
+        "The Tarkov Shooter - Part 6",
+        "\/wiki\/The_Tarkov_Shooter_-_Part_6",
+        "Elimination",
+        [
+            "Eliminate 5 Sniper Scavs while using a bolt-action rifle"
+        ],
+        "Yes",
+        [
+            "The Tarkov Shooter - Part 7"
+        ],
+        null,
+        "Jaeger",
+        [
+            303
+        ]
+    ],
+    [
+        "The Tarkov Shooter - Part 7",
+        "\/wiki\/The_Tarkov_Shooter_-_Part_7",
+        "Elimination",
+        [
+            "Eliminate 5 PMCs while using a suppressed bolt-action rifle from at least 45 meters away"
+        ],
+        "Yes",
+        [
+            "The Tarkov Shooter - Part 8"
+        ],
+        null,
+        "Jaeger",
+        [
+            304
+        ]
+    ],
+    [
+        "The Tarkov Shooter - Part 8",
+        "\/wiki\/The_Tarkov_Shooter_-_Part_8",
+        "Elimination",
+        [
+            "Eliminate 3 PMCs with a headshot and without dying while using a bolt-action rifle"
+        ],
+        "Yes",
+        [],
+        null,
+        "Jaeger",
+        [
+            305
+        ]
+    ],
+    [
+        "Shady Business",
+        "\/wiki\/Shady_Business",
+        "PickUp",
+        [
+            "Find 3 Secure Flash drives in raid",
+            "Hand over 3 Secure Flash drives to Jaeger"
+        ],
+        "Yes",
+        [
+            "Ambulance"
+        ],
+        "20",
+        "Jaeger",
+        [
+            91,
+            271
+        ]
+    ],
+    [
+        "The Huntsman Path - Sadist",
+        "\/wiki\/The_Huntsman_Path_-_Sadist",
+        "Elimination",
+        [
+            "Eliminate Sanitar"
+        ],
+        "No, but a subsequent quest Yes",
+        [
+            "TerraGroup Employee",
+            "Swift One"
+        ],
+        null,
+        "Jaeger",
+        [
+            72,
+            110,
+            210
+        ]
+    ],
+    [
+        "Hunter",
+        "\/wiki\/Hunter",
+        "Elimination",
+        [
+            "Eliminate Shturman 20 times"
+        ],
+        "No",
+        [],
+        "4",
+        "Jaeger",
+        [
+            294
+        ]
+    ],
+    [
+        "Pest Control",
+        "\/wiki\/Pest_Control",
+        "Elimination",
+        [
+            "Eliminate 10 Scavs in the barracks area on Reserve"
+        ],
+        "Yes",
+        [
+            "The Huntsman Path - Eraser - Part 1"
+        ],
+        "10",
+        "Jaeger",
+        [
+            286
+        ]
+    ],
+    [
+        "Swift One",
+        "\/wiki\/Swift_One",
+        "Elimination",
+        [
+            "Eliminate 15 PMCs without using any armor or helmets on Woods"
+        ],
+        "No",
+        [],
+        "50",
+        "Jaeger",
+        [
+            73,
+            308
+        ]
+    ],
+    [
+        "The Huntsman Path - Relentless",
+        "\/wiki\/The_Huntsman_Path_-_Relentless",
+        "Elimination",
+        [
+            "You must not die or leave the raid while the task is active (Status: KIA, Left the Action, MIA, Ran Through)",
+            "Eliminate Tagilla",
+            "Eliminate Killa",
+            "Eliminate Reshala",
+            "Eliminate Shturman",
+            "Eliminate Glukhar",
+            "Eliminate Sanitar"
+        ],
+        "No",
+        [],
+        "65",
+        "Jaeger",
+        []
+    ],
+    [
+        "The Hermit",
+        "\/wiki\/The_Hermit",
+        "Exploration",
+        [
+            "Locate the hideout of Jaeger's friend on Lighthouse",
+            "Find and obtain the message for Jaeger",
+            "Hand over the message"
+        ],
+        "Yes",
+        [],
+        "20",
+        "Jaeger",
+        [
+            276
+        ]
+    ],
+    [
+        "The Huntsman Path - Outcasts",
+        "\/wiki\/The_Huntsman_Path_-_Outcasts",
+        "Elimination",
+        [
+            "Eliminate 10 Rogue USEC operatives"
+        ],
+        "Yes",
+        [],
+        null,
+        "Jaeger",
+        [
+            287
+        ]
+    ],
+    [
+        "Stray Dogs",
+        "\/wiki\/Stray_Dogs",
+        "Elimination",
+        [
+            "Locate and eliminate Knight",
+            "Locate and eliminate Big Pipe",
+            "Locate and eliminate Birdeye"
+        ],
+        "Yes",
+        [],
+        "35",
+        "Jaeger",
+        [
+            291,
+            293,
+            294
+        ]
+    ],
+    [
+        "The Delicious Sausage",
+        "\/wiki\/The_Delicious_Sausage",
+        "Exploration",
+        [
+            "Scout the Shestyorochka store at Nikitskaya street",
+            "Scout the Sparja store at Primorsky ave",
+            "Scout the Sparja store in Pinewood hotel",
+            "Scout the Goshan store in Concordia",
+            "Hand over the found in raid Salty Dog beef sausage"
+        ],
+        "Yes",
+        [
+            "Cease Fire!"
+        ],
+        "5",
+        "Jaeger",
+        [
+            273
+        ]
+    ],
+    [
+        "Cease Fire!",
+        "\/wiki\/Cease_Fire!",
+        "Completion",
+        [
+            "Survive and extract from Streets of Tarkov through Klimov Street"
+        ],
+        "No",
+        [
+            "Ambulances Again"
+        ],
+        "10",
+        "Jaeger",
+        [
+            316
+        ]
+    ],
+    [
+        "Slaughterhouse",
+        "\/wiki\/Slaughterhouse",
+        "Elimination",
+        [
+            "Eliminate 10 Scavs while using melee weapons on daytime Factory",
+            "Eliminate 10 Scavs while using melee weapons on Streets of Tarkov",
+            "Eliminate 10 Scavs while using melee weapons on Lighthouse",
+            "Eliminate 10 Scavs while using melee weapons on Woods",
+            "Eliminate 10 Scavs while using melee weapons on Shoreline",
+            "Eliminate 10 Scavs while using melee weapons on Interchange",
+            "Eliminate 10 Scavs while using melee weapons on Customs",
+            "Eliminate 10 Scavs while using melee weapons on Reserve"
+        ],
+        "No",
+        [],
+        "40",
+        "Jaeger",
+        [
+            320,
+            321
+        ]
+    ],
+    [
+        "Broadcast - Part 3",
+        "\/wiki\/Broadcast_-_Part_3",
+        "Completion",
+        [
+            "Locate the place of bloody broadcast inside the old house on Streets of Tarkov",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [
+            "Broadcast - Part 4"
+        ],
+        "20",
+        "Jaeger",
+        [
+            216
+        ]
+    ],
+    [
+        "Broadcast - Part 4",
+        "\/wiki\/Broadcast_-_Part_4",
+        "Completion",
+        [
+            "Locate the cultist meeting spot on Streets of Tarkov",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [
+            "Broadcast - Part 5",
+            "Slaughterhouse"
+        ],
+        "27",
+        "Jaeger",
+        [
+            319
+        ]
+    ],
+    [
+        "The Huntsman Path - Administrator",
+        "\/wiki\/The_Huntsman_Path_-_Administrator",
+        "Elimination",
+        [
+            "Eliminate any 20 targets at the Pinewood hotel on Streets of Tarkov",
+            "Shoot a yellow signal flare in the hotel's courtyard"
+        ],
+        "No",
+        [
+            "The Huntsman Path - Crooked Cop",
+            "Slaughterhouse"
+        ],
+        "23",
+        "Jaeger",
+        [
+            287
+        ]
+    ],
+    [
+        "The Huntsman Path - Big Game",
+        "\/wiki\/The_Huntsman_Path_-_Big_Game",
+        "Elimination",
+        [
+            "Locate and eliminate Kaban",
+            "Find and eliminate Basmach",
+            "Find and eliminate Gus",
+            "Eliminate 5 of Kaban's guards at the car dealership on Streets of Tarkov"
+        ],
+        "No",
+        [],
+        null,
+        "Jaeger",
+        [
+            82,
+            287
+        ]
+    ],
+    [
+        "Broadcast - Part 5",
+        "\/wiki\/Broadcast_-_Part_5",
+        "Completion",
+        [
+            "Locate and eliminate Priest",
+            "Locate the ritual spot on Chekannaya st. on Streets of Tarkov",
+            "Stash a Cultist knife at the ritual spot",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [],
+        null,
+        "Jaeger",
+        [
+            320
+        ]
+    ],
+    [
+        "Collector",
+        "\/wiki\/Collector",
+        "PickUp",
+        [
+            "Find Old firesteel in raid",
+            "Hand over the Old firesteel",
+            "Find Antique axe in raid",
+            "Hand over the Antique axe",
+            "Find Battered antique book in raid",
+            "Hand over the Battered antique book",
+            "Find FireKlean gun lube in raid",
+            "Hand over the FireKlean gun lube",
+            "Find Golden rooster figurine in raid",
+            "Hand over the Golden rooster figurine",
+            "Find Silver Badge in raid",
+            "Hand over the Silver Badge",
+            "Find Deadlyslob's beard oil in raid",
+            "Hand over the Deadlyslob's beard oil",
+            "Find Golden 1GPhone smartphone in raid",
+            "Hand over the Golden 1GPhone smartphone",
+            "Find Jar of DevilDog mayo in raid",
+            "Hand over the Jar of DevilDog mayo",
+            "Find Can of sprats in raid",
+            "Hand over the Can of sprats",
+            "Find Fake mustache in raid",
+            "Hand over the Fake mustache",
+            "Find Kotton beanie in raid",
+            "Hand over the Kotton beanie",
+            "Find Raven figurine in raid",
+            "Hand over the Raven figurine",
+            "Find Pestily plague mask in raid",
+            "Hand over the Pestily plague mask",
+            "Find Shroud half-mask in raid",
+            "Hand over the Shroud half-mask",
+            "Find Can of Dr. Lupo's coffee beans in raid",
+            "Hand over the Can of Dr. Lupo's coffee beans",
+            "Find 42 Signature Blend English Tea in raid",
+            "Hand over the 42 Signature Blend English Tea",
+            "Find Veritas guitar pick in raid",
+            "Hand over the Veritas guitar pick",
+            "Find Armband (Evasion) in raid",
+            "Hand over the Armband (Evasion)",
+            "Find Can of RatCola soda in raid",
+            "Hand over the Can of RatCola soda",
+            "Find Loot Lord plushie in raid",
+            "Hand over the Loot Lord plushie",
+            "Find WZ Wallet in raid",
+            "Hand over the WZ Wallet",
+            "Find LVNDMARK's rat poison in raid",
+            "Hand over the LVNDMARK's rat poison",
+            "Find Smoke balaclava in raid",
+            "Hand over the Smoke balaclava",
+            "Find Missam forklift key in raid",
+            "Hand over the Missam forklift key",
+            "Find Video cassette with the Cyborg Killer movie in raid",
+            "Hand over the Video cassette with the Cyborg Killer movie",
+            "Find BakeEzy cook book in raid",
+            "Hand over the BakeEzy cook book",
+            "Find JohnB Liquid DNB glasses in raid",
+            "Hand over the JohnB Liquid DNB glasses",
+            "Find Glorious E lightweight armored mask in raid",
+            "Hand over the Glorious E lightweight armored mask",
+            "Find Baddie's red beard in raid",
+            "Hand over the Baddie's red beard",
+            "Find DRD body armor in raid",
+            "Hand over the DRD body armor",
+            "Find Gingy keychain in raid",
+            "Hand over the Gingy keychain",
+            "Find Golden egg in raid",
+            "Hand over the Golden egg",
+            "Find Press pass (issued for NoiceGuy) in raid",
+            "Hand over the Press pass (issued for NoiceGuy)",
+            "Find Axel parrot figurine in raid",
+            "Hand over the Axel parrot figurine",
+            "Find BEAR Buddy plush toy in raid",
+            "Hand over the BEAR Buddy plush toy"
+        ],
+        "Yes",
+        [],
+        "48",
+        "Fence",
+        []
+    ],
+    [
+        "The Choice",
+        "\/wiki\/The_Choice",
+        "Hand over",
+        [
+            "Hand over 1 Secure container Epsilon to Fence"
+        ],
+        "No",
+        [],
+        "50",
+        "Fence",
+        [
+            22
+        ]
+    ],
+    [
+        "Compensation for Damage - Wager",
+        "\/wiki\/Compensation_for_Damage_-_Wager",
+        "Elimination",
+        [
+            "Eliminate 7 PMC operatives while using any AK-series assault rifle"
+        ],
+        "No",
+        [],
+        "1",
+        "Fence",
+        []
+    ],
+    [
+        "Compensation for Damage - Trust",
+        "\/wiki\/Compensation_for_Damage_-_Trust",
+        "Completion",
+        [
+            "Hand over the 5 found in raid BEAR PMC dogtags",
+            "Hand over the 5 found in raid USEC PMC dogtags"
+        ],
+        "No",
+        [],
+        "1",
+        "Fence",
+        []
+    ],
+    [
+        "Compensation for Damage - Wergild",
+        "\/wiki\/Compensation_for_Damage_-_Wergild",
+        "Completion",
+        [
+            "Hand over 1,000,000 RUB"
+        ],
+        "No",
+        [],
+        "1",
+        "Fence",
+        []
+    ],
+    [
+        "Compensation for Damage - Barkeep",
+        "\/wiki\/Compensation_for_Damage_-_Barkeep",
+        "Completion",
+        [
+            "Hand over the found in raid Bottle of Dan Jackiel whiskey",
+            "Hand over the 3 found in raid Can of TarCola soda"
+        ],
+        "No",
+        [],
+        "1",
+        "Fence",
+        []
+    ],
+    [
+        "Compensation for Damage - Collection",
+        "\/wiki\/Compensation_for_Damage_-_Collection",
+        "Completion",
+        [
+            "Hand over the 2 found in raid Colt M4A1 assault rifles"
+        ],
+        "No",
+        [],
+        "1",
+        "Fence",
+        []
+    ],
+    [
+        "Information Source",
+        "\/wiki\/Information_Source",
+        "Completion",
+        [
+            "Survive and extract from Woods through Bridge V-Ex",
+            "Survive and extract from Customs through Dorms V-Ex",
+            "Survive and extract from Interchange through Power Station V-Ex",
+            "Survive and extract from Streets of Tarkov through Primorsky Ave Taxi V-Ex",
+            "Locate and mark the first Patrol-A armored vehicle with an MS2000 Marker on Streets of Tarkov",
+            "Locate and mark the second Patrol-A armored vehicle with an MS2000 Marker on Streets of Tarkov"
+        ],
+        "No",
+        [
+            "Missing Informant"
+        ],
+        null,
+        "Lightkeeper",
+        [
+            226
+        ]
+    ],
+    [
+        "Missing Informant",
+        "\/wiki\/Missing_Informant",
+        "Completion",
+        [
+            "Locate the informant's hideout on Streets of Tarkov(Optional) Obtain the key to the second hideout",
+            "(Optional) Obtain the key to the second hideout",
+            "Locate the informant's backup hideout",
+            "Obtain the informant's journal",
+            "Bring the information to Lightkeeper"
+        ],
+        "No",
+        [
+            "Snatch"
+        ],
+        "10",
+        "Lightkeeper",
+        [
+            331
+        ]
+    ],
+    [
+        "Snatch",
+        "\/wiki\/Snatch",
+        "PickUp",
+        [
+            "Extract from Lighthouse",
+            "Obtain the forged intelligence at the Rogue base on Lighthouse",
+            "Obtain the original intelligence in the repair station on Reserve",
+            "Stash the forged intelligence under the BMP-2 in place of the original",
+            "Bring the original intelligence to Lightkeeper"
+        ],
+        "No",
+        [
+            "Return the Favor"
+        ],
+        "10",
+        "Lightkeeper",
+        [
+            332
+        ]
+    ],
+    [
+        "Return the Favor",
+        "\/wiki\/Return_the_Favor",
+        "Elimination",
+        [
+            "Eliminate 15 PMC operatives around the mountain area on Woods",
+            "Hide the TerraGroup \"Blue Folders\" materials folder inside the black SUV in the USEC camp",
+            "Hide the TerraGroup \"Blue Folders\" materials in the crates near the satellite antenna in the USEC camp"
+        ],
+        "No",
+        [
+            "Payback"
+        ],
+        "10",
+        "Lightkeeper",
+        [
+            333
+        ]
+    ],
+    [
+        "Payback",
+        "\/wiki\/Payback",
+        "Completion",
+        [
+            "Locate and eliminate Glukhar",
+            "Eliminate 6 of Glukhar's guards",
+            "Shoot a yellow signal flare at the radar station",
+            "Survive and extract from Reserve through Cliff Descent"
+        ],
+        "No",
+        [
+            "Provocation"
+        ],
+        "10",
+        "Lightkeeper",
+        [
+            334
+        ]
+    ],
+    [
+        "Provocation",
+        "\/wiki\/Provocation",
+        "Elimination",
+        [
+            "Eliminate 20 enemies around the Kiba Arms store while using an ASh-12 on Interchange",
+            "Stash a Salty Dog beef sausage inside the Kiba Arms store",
+            "Stash a Bottle of Fierce Hatchling moonshine inside the secret secure hideout",
+            "Stash a Toilet paper inside the secret container stash",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [
+            "Following the Bread Crumbs"
+        ],
+        "10",
+        "Lightkeeper",
+        [
+            335
+        ]
+    ],
+    [
+        "Following the Bread Crumbs",
+        "\/wiki\/Following_the_Bread_Crumbs",
+        "Elimination",
+        [
+            "Eliminate 20 Raiders",
+            "Search the weapon testing area in The Lab",
+            "Search the human experiment room in The Lab",
+            "Obtain the secured tape inside the manager's office in The Lab",
+            "Bring the tape to Lightkeeper"
+        ],
+        "No",
+        [
+            "Spotter"
+        ],
+        "10",
+        "Lightkeeper",
+        [
+            336
+        ]
+    ],
+    [
+        "Spotter",
+        "\/wiki\/Spotter",
+        "Completion",
+        [
+            "Locate a good sniping position in Concordia overlooking the construction site",
+            "Hide AI .338 LM Tactical Sound Moderator near the red table",
+            "Locate a good sniping position at Primorsky overlooking the movie theater",
+            "Hide Trijicon REAP-IR thermal scope under Makhors' bed",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [
+            "Make an Impression"
+        ],
+        "10",
+        "Lightkeeper",
+        [
+            337
+        ]
+    ],
+    [
+        "Make an Impression",
+        "\/wiki\/Make_an_Impression",
+        "Elimination",
+        [
+            "Eliminate 10 Sniper Scavs from over 350 meters away",
+            "Reach the required Sniper Rifles skill level of 10"
+        ],
+        "No",
+        [
+            "Trouble in the Big City"
+        ],
+        "10",
+        "Lightkeeper",
+        [
+            338
+        ]
+    ],
+    [
+        "Trouble in the Big City",
+        "\/wiki\/Trouble_in_the_Big_City",
+        "Elimination",
+        [
+            "Locate the transport holding the cargo on Streets of Tarkov",
+            "Secure the area from 50 hostile PMC operatives",
+            "Mark the cargo area with an MS2000 Marker",
+            "Launch a yellow flare near the armored convoy to confirm that the job is done",
+            "Survive and extract from the location"
+        ],
+        "No",
+        [
+            "Overseas Trust - Part 1"
+        ],
+        "10",
+        "Lightkeeper",
+        [
+            339
+        ]
+    ],
+    [
+        "Overseas Trust - Part 1",
+        "\/wiki\/Overseas_Trust_-_Part_1",
+        "Elimination",
+        [
+            "Locate and eliminate Reshala 15 times",
+            "Locate and eliminate Glukhar 15 times",
+            "Locate and eliminate Killa 15 times",
+            "Locate and eliminate Shturman 15 times",
+            "Locate and eliminate Sanitar 15 times",
+            "Locate and eliminate Tagilla 15 times"
+        ],
+        "No",
+        [
+            "Overseas Trust - Part 2"
+        ],
+        "10",
+        "Lightkeeper",
+        [
+            340
+        ]
+    ]
+]
